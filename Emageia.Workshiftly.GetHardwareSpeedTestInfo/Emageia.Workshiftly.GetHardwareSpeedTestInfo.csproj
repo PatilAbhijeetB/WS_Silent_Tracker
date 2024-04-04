@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C7C7D351-C6BE-4399-9A31-BC829506BD3E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Emageia.Workshiftly.GetHardwareSpeedTestInfo</RootNamespace>
+    <AssemblyName>Emageia.Workshiftly.GetHardwareSpeedTestInfo</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Common\ByteBuffer.cs" />
+    <Compile Include="Common\CommonFunctions.cs" />
+    <Compile Include="Common\Config.cs" />
+    <Compile Include="Common\CryptoCommon.cs" />
+    <Compile Include="Common\EncryptionDecryption\DecryptionBuffer.cs" />
+    <Compile Include="Common\EncryptionDecryption\EncryptionBuffer.cs" />
+    <Compile Include="Controllers\HardwareDetails\Environment\EnvironmentProvider.cs" />
+    <Compile Include="Controllers\HardwareDetails\Environment\IEnvironment.cs" />
+    <Compile Include="Controllers\HardwareDetails\HardwareInfo.cs" />
+    <Compile Include="Controllers\HardwareDetails\MajorVersion10\MajorVersion10Properties.cs" />
+    <Compile Include="Controllers\HardwareDetails\MajorVersion10\RegistryProviderDefault.cs" />
+    <Compile Include="Controllers\HardwareDetails\MajorVersion10\VersionInfo.cs" />
+    <Compile Include="Controllers\HardwareDetails\Mocks\EnvironmentProviderMock.cs" />
+    <Compile Include="Controllers\HardwareDetails\Mocks\RegistryProviderMock.cs" />
+    <Compile Include="Controllers\HardwareDetails\Mocks\Win32ApiProviderMock.cs" />
+    <Compile Include="Controllers\HardwareDetails\OSVersion.cs" />
+    <Compile Include="Controllers\HardwareDetails\Registry\IRegistry.cs" />
+    <Compile Include="Controllers\HardwareDetails\Win32API\IRegistry.cs" />
+    <Compile Include="Controllers\HardwareDetails\Win32API\IWin32API.cs" />
+    <Compile Include="Controllers\HardwareDetails\Win32API\SystemMetrics.cs" />
+    <Compile Include="Controllers\HardwareDetails\Win32API\Win32ApiEnums.cs" />
+    <Compile Include="Controllers\HardwareDetails\Win32API\Win32ApiProvider.cs" />
+    <Compile Include="Controllers\NetworkDetails\Abstract\ISpeedTestClient.cs" />
+    <Compile Include="Controllers\NetworkDetails\Library.cs" />
+    <Compile Include="Controllers\NetworkDetails\SpeedTestClient.cs" />
+    <Compile Include="Controllers\NetworkDetails\SpeedTestHttpClient.cs" />
+    <Compile Include="Controllers\SystemDetails\AllProcess.cs" />
+    <Compile Include="Controllers\SystemDetails\SysParams.cs" />
+    <Compile Include="Controllers\SystemDetails\Utilization.cs" />
+    <Compile Include="GetInfoSchedularService.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GetInfoSchedularService.Designer.cs">
+      <DependentUpon>GetInfoSchedularService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\bandwidthData.cs" />
+    <Compile Include="Models\Client.cs" />
+    <Compile Include="Models\Coordinate.cs" />
+    <Compile Include="Models\DaterHeder.cs" />
+    <Compile Include="Models\Download.cs" />
+    <Compile Include="Models\Employee.cs" />
+    <Compile Include="Models\geoLocation.cs" />
+    <Compile Include="Models\monitorInfo.cs" />
+    <Compile Include="Models\Server.cs" />
+    <Compile Include="Models\ServerConfig.cs" />
+    <Compile Include="Models\ServersList.cs" />
+    <Compile Include="Models\serviceData.cs" />
+    <Compile Include="Models\Settings.cs" />
+    <Compile Include="Models\systemInfo.cs" />
+    <Compile Include="Models\Times.cs" />
+    <Compile Include="Models\Upload.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Emageia.Workshiftly.CoreFunction\Emageia.Workshiftly.CoreFunction.csproj">
+      <Project>{E3B94964-AB80-4CA3-A08D-50D82A401282}</Project>
+      <Name>Emageia.Workshiftly.CoreFunction</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Emageia.Workshiftly.Entity\Emageia.Workshiftly.Entity.csproj">
+      <Project>{2E39C584-0725-42F7-8771-E0C013E30252}</Project>
+      <Name>Emageia.Workshiftly.Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

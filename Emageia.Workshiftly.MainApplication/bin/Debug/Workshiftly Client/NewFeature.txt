@@ -1,0 +1,5304 @@
+
+ 
+28-03-2024 17:15:36
+Network Details - 
+ Domain- 
+ Host-DESKTOP-FVH7TML 
+ IP-192.168.29.19
+
+ 
+28-03-2024 17:15:36
+
+Jitter - 4.94117647058824
+
+ 
+28-03-2024 17:15:36    
+
+ISP Name - Jio
+
+ 
+28-03-2024 17:15:37
+
+WANIP - 49.36.41.5
+
+ 
+28-03-2024 17:16:20          
+
+Ping - 0
+
+ 
+28-03-2024 17:16:20   
+Testing speed...
+
+ 
+28-03-2024 17:16:24Download speed: 85.09 Mbps
+
+ 
+28-03-2024 17:16:25Upload speed: 84.01 Mbps
+
+ 
+28-03-2024 17:16:25Download speed: 85.09 Mbps
+
+ 
+28-03-2024 17:16:25Upload speed: 84.01 Mbps
+
+ 
+28-03-2024 17:16:33
+ utilization ****************************************************** 
+
+ 
+28-03-2024 17:16:33
+ cpuUtilization:	 1.1	 ramUtilization: 	46.8	 pageUtilization: 	0.960099	 networkUtilization: 	0.2919771
+
+ 
+28-03-2024 17:16:33Paging File", "% Usage", "_Total: 0.960099
+
+ 
+28-03-2024 17:16:33Memory", "Committed Bytes: 17475.3
+
+ 
+28-03-2024 17:16:33Memory", "Pool Paged Bytes: 785.9
+
+ 
+28-03-2024 17:16:33"Memory", "Pool Nonpaged Bytes: 924
+
+ 
+28-03-2024 17:16:33Memory", "Cache Bytes: 567.7734
+
+ 
+28-03-2024 17:16:33getMemAvailable: 17284
+
+ 
+28-03-2024 17:16:35
+ Machine Full Name: DESKTOP-FVH7TML.
+
+ 
+28-03-2024 17:16:35
+ Processor: 11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz
+
+ 
+28-03-2024 17:16:35
+ sysProcessorID: BFEBFBFF000806C2
+
+ 
+28-03-2024 17:16:35    
+ RAM(MB): 32768
+
+ 
+28-03-2024 17:16:35
+ sys product id: 06KTVX
+
+ 
+28-03-2024 17:16:35
+ Processor: 11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz
+
+ 
+28-03-2024 17:16:35
+ sys Os Name: Microsoft Windows 11 Pro
+
+ 
+28-03-2024 17:16:35
+ sys Os Version: Microsoft Windows NT 6.2.9200.0
+
+ 
+28-03-2024 17:16:35
+ Windows version: 10.0.22621,
+
+ 
+28-03-2024 17:16:35
+ OS type: Windows10,
+
+ 
+28-03-2024 17:16:35
+ Is workstation: True,
+
+ 
+28-03-2024 17:16:35 
+ Is server: False,
+
+ 
+28-03-2024 17:16:35
+ Windows Release ID: 2009,
+
+ 
+28-03-2024 17:16:35
+Windows Display Version: 22H2 ,
+
+ 
+28-03-2024 17:16:35
+Windows Update Build Revision: 3296
+
+ 
+28-03-2024 17:16:35
+ get Software Details  ****************************************
+
+ 
+28-03-2024 17:16:35
+DisplayName :Visual Studio Professional 2022	EstimatedSize :,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Adobe Genuine Service	EstimatedSize :,
+
+ 
+28-03-2024 17:16:35
+DisplayName :AnyDesk	EstimatedSize :2048,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Google Chrome	EstimatedSize :,
+
+ 
+28-03-2024 17:16:35
+DisplayName :IntelliJ IDEA 2023.1.4	EstimatedSize :,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Microsoft Edge	EstimatedSize :,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Microsoft Edge Update	EstimatedSize :,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Microsoft Edge WebView2 Runtime	EstimatedSize :,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Microsoft Help Viewer 2.3	EstimatedSize :12438,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Adobe Photoshop 2021	EstimatedSize :3405569,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Bluetooth Framework .NET Edition (Demo Version) version 7.16.18.0	EstimatedSize :14221,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Windows SDK Desktop Tools x86	EstimatedSize :20792,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664	EstimatedSize :21062,
+
+ 
+28-03-2024 17:16:35
+DisplayName :vs_devenvsharedmsi	EstimatedSize :184,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Windows SDK Desktop Tools arm64	EstimatedSize :11836,
+
+ 
+28-03-2024 17:16:35
+DisplayName :WiX Toolset v3.11 Native 2015 SDK	EstimatedSize :17764,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Windows IoT Extension SDK	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Visual C++ Library CRT Desktop Appx Package	EstimatedSize :43348,
+
+ 
+28-03-2024 17:16:35
+DisplayName :WinRT Intellisense UAP - en-us	EstimatedSize :12848,
+
+ 
+28-03-2024 17:16:35
+DisplayName :VS Immersive Activate Helper	EstimatedSize :89,
+
+ 
+28-03-2024 17:16:35
+DisplayName :Visual Studio 2017 Isolated Shell for SSMS	EstimatedSize :412896,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps DirectX x86 Remote	EstimatedSize :2864,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense Mobile - en-us	EstimatedSize :184,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Signing Tools	EstimatedSize :7308,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Windows Communication Foundation Diagnostic Pack for x86	EstimatedSize :176,
+
+ 
+28-03-2024 17:16:36
+DisplayName :icecap_collectionresourcesx64	EstimatedSize :92,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Software Development Kit - Windows 10.0.18362.1	EstimatedSize :2316756,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET CoreRuntime SDK	EstimatedSize :22948,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_filehandler_amd64	EstimatedSize :4392,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Universal CRT Extension SDK	EstimatedSize :6416,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Team Extension SDK	EstimatedSize :172,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Mobile Extension SDK Contracts	EstimatedSize :152,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense PPI - en-us	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Libs arm64	EstimatedSize :88444,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WS_Silent	EstimatedSize :782972,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Dell Digital Delivery Services	EstimatedSize :77816,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Libs x64	EstimatedSize :76492,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Dell SupportAssist Remediation	EstimatedSize :91106,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Framework 4.7.2 Targeting Pack	EstimatedSize :43356,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Libs x64	EstimatedSize :74040,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)	EstimatedSize :72820,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Tools x86	EstimatedSize :17428,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WiX Toolset v3.11 Native 2013 SDK	EstimatedSize :16504,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_minshellinteropsharedmsi	EstimatedSize :1608,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Libs	EstimatedSize :176056,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows IoT Extension SDK Contracts	EstimatedSize :392,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK ARM Desktop Tools	EstimatedSize :2800,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Modern Versioned Developer Tools	EstimatedSize :7664,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense IoT - Other Languages	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Libs	EstimatedSize :160968,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Targeting Pack - 6.0.13 (x86)	EstimatedSize :29412,
+
+ 
+28-03-2024 17:16:36
+DisplayName :ClickOnce Bootstrapper Package for Microsoft .NET Framework	EstimatedSize :8488,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Libs x86	EstimatedSize :82792,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Exchange Web Services Managed API 2.1	EstimatedSize :5300,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense UAP - Other Languages	EstimatedSize :122412,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Windows Desktop Runtime - 3.1.32 (x86)	EstimatedSize :79840,
+
+ 
+28-03-2024 17:16:36
+DisplayName :sptools_Microsoft.VisualStudio.OfficeDeveloperTools.Msi	EstimatedSize :52,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual C++ 2022 X86 Debug Runtime - 14.34.31931	EstimatedSize :25114,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Contracts	EstimatedSize :13084,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Dell SupportAssist OS Recovery Plugin for Dell Update	EstimatedSize :64089,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Libs arm	EstimatedSize :71984,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinAppDeploy	EstimatedSize :912,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Metadata	EstimatedSize :3864,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Facade Windows WinMD Versioned	EstimatedSize :164,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK	EstimatedSize :3168,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Tools arm64	EstimatedSize :12120,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Headers arm64	EstimatedSize :100,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Mobile Extension SDK	EstimatedSize :6864,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps DirectX x86 Remote	EstimatedSize :3552,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Facade Windows WinMD Versioned	EstimatedSize :164,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense IoT - en-us	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030	EstimatedSize :17800,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WebAdvisor by McAfee	EstimatedSize :62935,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense IoT - en-us	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_clickoncebootstrappermsires	EstimatedSize :148,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Desktop Extension SDK Contracts	EstimatedSize :468,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense IoT - Other Languages	EstimatedSize :392,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows IoT Extension SDK Contracts	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :sptools_Microsoft.VisualStudio.Vsto.Msi.Resources	EstimatedSize :22856,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Headers x86	EstimatedSize :90516,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Headers arm	EstimatedSize :96,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Open XML SDK 2.5 for Microsoft Office	EstimatedSize :27250,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Desktop Extension SDK	EstimatedSize :60,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Visual C++ Library CRT Desktop Appx Package	EstimatedSize :65472,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Xamarin Remoted iOS Simulator	EstimatedSize :16651,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WiX Toolset v3.11 Core	EstimatedSize :22688,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense UAP - en-us	EstimatedSize :12900,
+
+ 
+28-03-2024 17:16:36
+DisplayName :SDK ARM Redistributables	EstimatedSize :2772,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft ASP.NET Core 6.0.13 Shared Framework (x86)	EstimatedSize :20839,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense Mobile - en-us	EstimatedSize :188,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Headers arm64	EstimatedSize :84,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Software Development Kit - Windows 10.0.19041.685	EstimatedSize :1946425,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET CoreRuntime For CoreCon	EstimatedSize :68508,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_FileTracker_Singleton	EstimatedSize :1416,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows IoT Extension SDK Contracts	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Java Auto Updater	EstimatedSize :2414,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Tools	EstimatedSize :135804,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Runtime - 7.0.2 (x86)	EstimatedSize :64836,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Headers arm	EstimatedSize :96,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Signing Tools	EstimatedSize :6600,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Universal CRT Extension SDK	EstimatedSize :6448,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft ASP.NET Core 7.0.2 Shared Framework (x86)	EstimatedSize :23555,
+
+ 
+28-03-2024 17:16:36
+DisplayName :windows_toolscorepkg	EstimatedSize :166920,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Host FX Resolver - 7.0.2 (x86)	EstimatedSize :292,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Tools x86	EstimatedSize :18524,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Libs x64	EstimatedSize :88084,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Tools arm64	EstimatedSize :14240,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_communitymsires	EstimatedSize :20,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_filehandler_x86	EstimatedSize :2128,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft ASP.NET Web Tools Packages 17.0 - ENU	EstimatedSize :334328,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET SDK 5.0.408 (x64)	EstimatedSize :683454,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows IoT Extension SDK	EstimatedSize :392,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Visual C++ Library CRT Appx Resource Package	EstimatedSize :72,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Team Extension SDK Contracts	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :icecap_collectionresources	EstimatedSize :92,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Team Extension SDK Contracts	EstimatedSize :4,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK EULA	EstimatedSize :284,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Team Extension SDK Contracts	EstimatedSize :4,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Metadata	EstimatedSize :3860,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Libs arm	EstimatedSize :66224,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Kits Configuration Installer	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Headers	EstimatedSize :238716,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense PPI - en-us	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_CoreEditorFonts	EstimatedSize :728,
+
+ 
+28-03-2024 17:16:36
+DisplayName :SQL Server Management Studio	EstimatedSize :603936,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Tools	EstimatedSize :132412,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_tipsmsi	EstimatedSize :46,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Headers x64	EstimatedSize :40,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_clickoncebootstrappermsi	EstimatedSize :532,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense IoT - Other Languages	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense UAP - en-us	EstimatedSize :12524,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Universal CRT Headers Libraries and Sources	EstimatedSize :289372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.34.31931	EstimatedSize :18373,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Entity Framework 6.2.0 Tools  for Visual Studio 2022	EstimatedSize :107436,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Team Extension SDK	EstimatedSize :396,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Headers x86	EstimatedSize :95648,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Universal General MIDI DLS Extension SDK	EstimatedSize :3052,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Targeting Pack - 7.0.2 (x86)	EstimatedSize :33752,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Visual C++ Library CRT Appx Package	EstimatedSize :8732,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Mobile Extension SDK	EstimatedSize :6868,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_minshellmsires	EstimatedSize :144,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft NetStandard SDK	EstimatedSize :508756,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Universal CRT Headers Libraries and Sources	EstimatedSize :531480,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Metadata	EstimatedSize :3864,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Tools x64	EstimatedSize :17664,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WiX Toolset v3.11.2.4516	EstimatedSize :141439,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Mobile Extension SDK Contracts	EstimatedSize :152,
+
+ 
+28-03-2024 17:16:36
+DisplayName :MSI Development Tools	EstimatedSize :4120,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_clickoncesigntoolmsi	EstimatedSize :308,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Visual C++ Library CRT ARM64 Appx Package	EstimatedSize :39344,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Libs x86	EstimatedSize :66308,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Workflow Debugger v1.0 for x86	EstimatedSize :472,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Redistributables	EstimatedSize :5852,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Libs x86	EstimatedSize :71600,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Integration Services	EstimatedSize :166552,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense Desktop - Other Languages	EstimatedSize :5768,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664	EstimatedSize :2076,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows App Certification Kit SupportedApiList x86	EstimatedSize :3792,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense IoT - en-us	EstimatedSize :392,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Libs arm64	EstimatedSize :136432,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense Desktop - Other Languages	EstimatedSize :7088,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft TestPlatform SDK Local Feed	EstimatedSize :790604,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Core Runtime - 3.1.32 (x86)	EstimatedSize :59748,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Universal CRT Redistributable	EstimatedSize :5188,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual Studio Setup WMI Provider	EstimatedSize :4068,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft ASP.NET Core 7.0.2 Targeting Pack (x86)	EstimatedSize :14467,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Headers x86	EstimatedSize :90252,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Intel® Software Installer	EstimatedSize :105851,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Runtime - 6.0.13 (x86)	EstimatedSize :63560,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense UAP - Other Languages	EstimatedSize :125312,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WiX Toolset v3.11 Managed SDK	EstimatedSize :3972,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft SQL Server Management Studio - 19.0.2	EstimatedSize :2861605,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_BlendMsi	EstimatedSize :44,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_SQLClickOnceBootstrappermsi	EstimatedSize :12452,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Analysis Services OLE DB Provider	EstimatedSize :258888,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinAppDeploy	EstimatedSize :2284,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinAppDeploy	EstimatedSize :904,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Headers	EstimatedSize :219644,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Universal CRT Redistributable	EstimatedSize :5912,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Mobile Extension SDK Contracts	EstimatedSize :156,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps DirectX x86 Remote	EstimatedSize :2864,
+
+ 
+28-03-2024 17:16:36
+DisplayName :icecap_collection_neutral	EstimatedSize :4113,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Universal CRT Extension SDK	EstimatedSize :9364,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense Mobile - en-us	EstimatedSize :188,
+
+ 
+28-03-2024 17:16:36
+DisplayName :SSMS Post Install Tasks	EstimatedSize :304,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK EULA	EstimatedSize :284,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK ARM Desktop Tools	EstimatedSize :2812,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Framework 4.8 SDK	EstimatedSize :21068,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Libs arm64	EstimatedSize :76196,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support	EstimatedSize :3832,
+
+ 
+28-03-2024 17:16:36
+DisplayName :MSI Development Tools	EstimatedSize :4196,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vcpp_crt.redist.clickonce	EstimatedSize :4,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Universal CRT Headers Libraries and Sources	EstimatedSize :415940,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Libs arm	EstimatedSize :82664,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Help Viewer 2.3	EstimatedSize :13260,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft ASP.NET Diagnostic Pack for Visual Studio	EstimatedSize :56,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense PPI - Other Languages	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_Graphics_Singletonx86	EstimatedSize :3799,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows IoT Extension SDK	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664	EstimatedSize :17602,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense PPI - Other Languages	EstimatedSize :392,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Headers	EstimatedSize :230528,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Desktop Extension SDK Contracts	EstimatedSize :488,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Framework 4.8 Targeting Pack (ENU)	EstimatedSize :69940,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK EULA	EstimatedSize :284,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Tools	EstimatedSize :114140,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Universal CRT Redistributable	EstimatedSize :5208,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft ASP.NET Core 6.0.13 Targeting Pack (x86)	EstimatedSize :13611,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Facade Windows WinMD Versioned	EstimatedSize :164,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Runtime - 5.0.17 (x64)	EstimatedSize :93278,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Universal General MIDI DLS Extension SDK	EstimatedSize :3052,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Universal CRT Tools x86	EstimatedSize :1664,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK ARM Desktop Tools	EstimatedSize :3208,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Visual C++ Library CRT Desktop Appx Package	EstimatedSize :43164,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.34.31931	EstimatedSize :1852,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Adobe Refresh Manager	EstimatedSize :2024,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_vswebprotocolselectormsi	EstimatedSize :1308,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Windows Desktop Runtime - 6.0.13 (x86)	EstimatedSize :83588,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Contracts	EstimatedSize :13456,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Managed Apps Libs	EstimatedSize :7748,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030	EstimatedSize :9900,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual Studio Setup Configuration	EstimatedSize :560,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense Desktop - Other Languages	EstimatedSize :7188,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Desktop Extension SDK	EstimatedSize :44,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)	EstimatedSize :70280,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_communitysharedmsi	EstimatedSize :33056,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Windows Desktop Runtime - 7.0.2 (x86)	EstimatedSize :84708,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Signing Tools	EstimatedSize :8500,
+
+ 
+28-03-2024 17:16:36
+DisplayName :SQL Server Management Studio Language Pack - English	EstimatedSize :324,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK DirectX x86 Remote	EstimatedSize :412,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Framework 4.8 Targeting Pack	EstimatedSize :44744,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense Desktop - en-us	EstimatedSize :724,
+
+ 
+28-03-2024 17:16:36
+DisplayName :SDK ARM Additions	EstimatedSize :412,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030	EstimatedSize :1772,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Host - 7.0.2 (x86)	EstimatedSize :484,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Contracts	EstimatedSize :12888,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Visual C++ Library CRT ARM64 Appx Package	EstimatedSize :5708,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual C++ 2022 X86 Additional Runtime - 14.34.31931	EstimatedSize :10316,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft ASP.NET Core 3.1.32 Shared Framework (x86)	EstimatedSize :17663,
+
+ 
+28-03-2024 17:16:36
+DisplayName :vs_minshellsharedmsi	EstimatedSize :260,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Headers x64	EstimatedSize :40,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Windows Desktop Targeting Pack - 7.0.2 (x86)	EstimatedSize :11944,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft UniversalWindowsPlatform SDK	EstimatedSize :4145016,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Headers arm	EstimatedSize :96,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Headers x64	EstimatedSize :40,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Headers arm64	EstimatedSize :84,
+
+ 
+28-03-2024 17:16:36
+DisplayName :IntelliTraceProfilerProxy	EstimatedSize :9,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps Libs	EstimatedSize :210040,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030	EstimatedSize :21014,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Team Extension SDK	EstimatedSize :168,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Managed Apps Libs	EstimatedSize :6052,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WiX Toolset v3.11 Native 2012 SDK	EstimatedSize :16504,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Apps	EstimatedSize :96,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense UAP - Other Languages	EstimatedSize :126512,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Desktop Extension SDK	EstimatedSize :52,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664	EstimatedSize :9456,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.34.31931	EstimatedSize :20984,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WiX Toolset v3.11 Native 2017 SDK	EstimatedSize :17840,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Desktop Extension SDK Contracts	EstimatedSize :504,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WiX Toolset v3.11 Native 2010 SDK	EstimatedSize :13968,
+
+ 
+28-03-2024 17:16:36
+DisplayName :sptools_Microsoft.VisualStudio.Vsto.Msi.x64	EstimatedSize :604,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Universal General MIDI DLS Extension SDK	EstimatedSize :3056,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Software Development Kit - Windows 10.0.22000.832	EstimatedSize :2414800,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Windows Desktop Targeting Pack - 6.0.13 (x86)	EstimatedSize :22724,
+
+ 
+28-03-2024 17:16:36
+DisplayName :MSI Development Tools	EstimatedSize :4116,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows Mobile Extension SDK	EstimatedSize :6868,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK AddOn	EstimatedSize :152,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Tools x64	EstimatedSize :21152,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense Desktop - en-us	EstimatedSize :596,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support	EstimatedSize :3072,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Modern Versioned Developer Tools	EstimatedSize :7628,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft .NET Native SDK	EstimatedSize :1108132,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219	EstimatedSize :11417,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Realtek Audio Driver	EstimatedSize :414008,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Visual C++ Library CRT Appx Package	EstimatedSize :10140,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual Studio Tools for Applications 2019	EstimatedSize :14545,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Microsoft Visual Studio Tools for Applications 2017	EstimatedSize :19650,
+
+ 
+28-03-2024 17:16:36
+DisplayName :sptools_Microsoft.VisualStudio.Vsto.Msi	EstimatedSize :24332,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Desktop Tools x64	EstimatedSize :16776,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Modern Non-Versioned Developer Tools	EstimatedSize :10776,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense Desktop - en-us	EstimatedSize :720,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK Modern Versioned Developer Tools	EstimatedSize :7692,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows App Certification Kit x64	EstimatedSize :77928,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Browser for SQL Server 2022	EstimatedSize :11812,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense PPI - en-us	EstimatedSize :392,
+
+ 
+28-03-2024 17:16:36
+DisplayName :WinRT Intellisense PPI - Other Languages	EstimatedSize :372,
+
+ 
+28-03-2024 17:16:36
+DisplayName :Windows SDK for Windows Store Managed Apps Libs	EstimatedSize :6340,
+
+ 
+28-03-2024 17:16:36
+*************** get Service Details  ****************************************
+
+ 
+28-03-2024 17:16:36
+ServiceName :AdobeARMservice	Service Status :Running,
+
+ 
+28-03-2024 17:16:36
+ServiceName :AGMService	Service Status :Running,
+
+ 
+28-03-2024 17:16:36
+ServiceName :AJRouter	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:36
+ServiceName :ALG	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:37
+ServiceName :AnyDesk	Service Status :Running,
+
+ 
+28-03-2024 17:16:37
+ServiceName :AppIDSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:37
+ServiceName :Appinfo	Service Status :Running,
+
+ 
+28-03-2024 17:16:38
+ServiceName :AppMgmt	Service Status :Running,
+
+ 
+28-03-2024 17:16:38
+ServiceName :AppReadiness	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:38
+ServiceName :AppVClient	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:38
+ServiceName :AppXSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:39
+ServiceName :aspnet_state	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:39
+ServiceName :AssignedAccessManagerSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:39
+ServiceName :AudioEndpointBuilder	Service Status :Running,
+
+ 
+28-03-2024 17:16:40
+ServiceName :Audiosrv	Service Status :Running,
+
+ 
+28-03-2024 17:16:40
+ServiceName :autotimesvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:40
+ServiceName :AxInstSV	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:40
+ServiceName :AzureAttestService	Service Status :Running,
+
+ 
+28-03-2024 17:16:41
+ServiceName :BDESVC	Service Status :Running,
+
+ 
+28-03-2024 17:16:41
+ServiceName :BFE	Service Status :Running,
+
+ 
+28-03-2024 17:16:41
+ServiceName :BITS	Service Status :Running,
+
+ 
+28-03-2024 17:16:41
+ServiceName :BrokerInfrastructure	Service Status :Running,
+
+ 
+28-03-2024 17:16:42
+ServiceName :Browser	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:42
+ServiceName :BTAGService	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:42
+ServiceName :BthAvctpSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:43
+ServiceName :bthserv	Service Status :Running,
+
+ 
+28-03-2024 17:16:43
+ServiceName :camsvc	Service Status :Running,
+
+ 
+28-03-2024 17:16:43
+ServiceName :CDPSvc	Service Status :Running,
+
+ 
+28-03-2024 17:16:43
+ServiceName :CertPropSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:44
+ServiceName :ClickToRunSvc	Service Status :Running,
+
+ 
+28-03-2024 17:16:44
+ServiceName :ClipSVC	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:44
+ServiceName :cloudidsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:44
+ServiceName :COMSysApp	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:45
+ServiceName :CoreMessagingRegistrar	Service Status :Running,
+
+ 
+28-03-2024 17:16:45
+ServiceName :cplspcon	Service Status :Running,
+
+ 
+28-03-2024 17:16:45
+ServiceName :CryptSvc	Service Status :Running,
+
+ 
+28-03-2024 17:16:45
+ServiceName :CscService	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:46
+ServiceName :DcomLaunch	Service Status :Running,
+
+ 
+28-03-2024 17:16:46
+ServiceName :dcsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:46
+ServiceName :DDVCollectorSvcApi	Service Status :Running,
+
+ 
+28-03-2024 17:16:47
+ServiceName :DDVDataCollector	Service Status :Running,
+
+ 
+28-03-2024 17:16:47
+ServiceName :DDVRulesProcessor	Service Status :Running,
+
+ 
+28-03-2024 17:16:47
+ServiceName :defragsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:47
+ServiceName :Dell Digital Delivery Services	Service Status :Running,
+
+ 
+28-03-2024 17:16:48
+ServiceName :Dell SupportAssist Remediation	Service Status :Running,
+
+ 
+28-03-2024 17:16:48
+ServiceName :DellClientManagementService	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:48
+ServiceName :DellTechHub	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:49
+ServiceName :DeviceAssociationService	Service Status :Running,
+
+ 
+28-03-2024 17:16:49
+ServiceName :DeviceInstall	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:49
+ServiceName :DevQueryBroker	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:49
+ServiceName :Dhcp	Service Status :Running,
+
+ 
+28-03-2024 17:16:49
+ServiceName :diagnosticshub.standardcollector.service	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:50
+ServiceName :diagsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:50
+ServiceName :DiagTrack	Service Status :Running,
+
+ 
+28-03-2024 17:16:50
+ServiceName :DialogBlockingService	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:51
+ServiceName :DispBrokerDesktopSvc	Service Status :Running,
+
+ 
+28-03-2024 17:16:51
+ServiceName :DisplayEnhancementService	Service Status :Running,
+
+ 
+28-03-2024 17:16:51
+ServiceName :DmEnrollmentSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:51
+ServiceName :dmwappushservice	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:52
+ServiceName :Dnscache	Service Status :Running,
+
+ 
+28-03-2024 17:16:52
+ServiceName :DoSvc	Service Status :Running,
+
+ 
+28-03-2024 17:16:52
+ServiceName :dot3svc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:52
+ServiceName :DPS	Service Status :Running,
+
+ 
+28-03-2024 17:16:53
+ServiceName :DsmSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:53
+ServiceName :DsSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:53
+ServiceName :DusmSvc	Service Status :Running,
+
+ 
+28-03-2024 17:16:53
+ServiceName :EapHost	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:54
+ServiceName :edgeupdate	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:54
+ServiceName :edgeupdatem	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:54
+ServiceName :EFS	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:54
+ServiceName :Emageia Runnable Service 	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:55
+ServiceName :embeddedmode	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:55
+ServiceName :EntAppSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:55
+ServiceName :esifsvc	Service Status :Running,
+
+ 
+28-03-2024 17:16:55
+ServiceName :EventLog	Service Status :Running,
+
+ 
+28-03-2024 17:16:56
+ServiceName :EventSystem	Service Status :Running,
+
+ 
+28-03-2024 17:16:56
+ServiceName :Fax	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:56
+ServiceName :fdPHost	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:56
+ServiceName :FDResPub	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:57
+ServiceName :fhsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:57
+ServiceName :FileSyncHelper	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:57
+ServiceName :FontCache	Service Status :Running,
+
+ 
+28-03-2024 17:16:57
+ServiceName :FontCache3.0.0.0	Service Status :Running,
+
+ 
+28-03-2024 17:16:58
+ServiceName :FrameServer	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:58
+ServiceName :FrameServerMonitor	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:58
+ServiceName :GameInputSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:58
+ServiceName :GoogleChromeElevationService	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:59
+ServiceName :gpsvc	Service Status :Running,
+
+ 
+28-03-2024 17:16:59
+ServiceName :GraphicsPerfSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:16:59
+ServiceName :gupdate	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:00
+ServiceName :gupdatem	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:00
+ServiceName :HgClientService	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:00
+ServiceName :hidserv	Service Status :Running,
+
+ 
+28-03-2024 17:17:00
+ServiceName :HNS	Service Status :Running,
+
+ 
+28-03-2024 17:17:01
+ServiceName :HvHost	Service Status :Running,
+
+ 
+28-03-2024 17:17:01
+ServiceName :iaStorAfsService	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:01
+ServiceName :icssvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:01
+ServiceName :igccservice	Service Status :Running,
+
+ 
+28-03-2024 17:17:02
+ServiceName :igfxCUIService2.0.0.0	Service Status :Running,
+
+ 
+28-03-2024 17:17:02
+ServiceName :IKEEXT	Service Status :Running,
+
+ 
+28-03-2024 17:17:02
+ServiceName :InstallService	Service Status :Running,
+
+ 
+28-03-2024 17:17:02
+ServiceName :Intel(R) Capability Licensing Service TCP IP Interface	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:03
+ServiceName :Intel(R) TPM Provisioning Service	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:03
+ServiceName :IntelAudioService	Service Status :Running,
+
+ 
+28-03-2024 17:17:03
+ServiceName :InventorySvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:03
+ServiceName :iphlpsvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:04
+ServiceName :IpxlatCfgSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:04
+ServiceName :jhi_service	Service Status :Running,
+
+ 
+28-03-2024 17:17:04
+ServiceName :KeyIso	Service Status :Running,
+
+ 
+28-03-2024 17:17:04
+ServiceName :KtmRm	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:05
+ServiceName :LanmanServer	Service Status :Running,
+
+ 
+28-03-2024 17:17:05
+ServiceName :LanmanWorkstation	Service Status :Running,
+
+ 
+28-03-2024 17:17:05
+ServiceName :lfsvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:05
+ServiceName :LicenseManager	Service Status :Running,
+
+ 
+28-03-2024 17:17:06
+ServiceName :lltdsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:06
+ServiceName :lmhosts	Service Status :Running,
+
+ 
+28-03-2024 17:17:06
+ServiceName :LSM	Service Status :Running,
+
+ 
+28-03-2024 17:17:06
+ServiceName :LxpSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:07
+ServiceName :LxssManager	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:07
+ServiceName :MapsBroker	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:07
+ServiceName :mc-fw-host	Service Status :Running,
+
+ 
+28-03-2024 17:17:07
+ServiceName :mc-wps-update	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:08
+ServiceName :McAfee WebAdvisor	Service Status :Running,
+
+ 
+28-03-2024 17:17:08
+ServiceName :McpManagementService	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:08
+ServiceName :MicrosoftEdgeElevationService	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:09
+ServiceName :MixedRealityOpenXRSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:09
+ServiceName :mpssvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:09
+ServiceName :MSDTC	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:09
+ServiceName :MSiSCSI	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:10
+ServiceName :msiserver	Service Status :Running,
+
+ 
+28-03-2024 17:17:10
+ServiceName :MsKeyboardFilter	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:10
+ServiceName :MSSQLSERVER	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:10
+ServiceName :NaturalAuthentication	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:11
+ServiceName :NcaSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:11
+ServiceName :NcbService	Service Status :Running,
+
+ 
+28-03-2024 17:17:11
+ServiceName :NcdAutoSetup	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:11
+ServiceName :Netlogon	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:12
+ServiceName :Netman	Service Status :Running,
+
+ 
+28-03-2024 17:17:12
+ServiceName :netprofm	Service Status :Running,
+
+ 
+28-03-2024 17:17:12
+ServiceName :NetSetupSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:13
+ServiceName :NetTcpPortSharing	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:13
+ServiceName :NgcCtnrSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:13
+ServiceName :NgcSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:13
+ServiceName :NlaSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:14
+ServiceName :nsi	Service Status :Running,
+
+ 
+28-03-2024 17:17:14
+ServiceName :nvagent	Service Status :Running,
+
+ 
+28-03-2024 17:17:14
+ServiceName :OneDrive Updater Service	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:14
+ServiceName :p2pimsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:14
+ServiceName :p2psvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:15
+ServiceName :PcaSvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:15
+ServiceName :PeerDistSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:15
+ServiceName :perceptionsimulation	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:15
+ServiceName :PerfHost	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:16
+ServiceName :PhoneSvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:16
+ServiceName :pla	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:16
+ServiceName :PlugPlay	Service Status :Running,
+
+ 
+28-03-2024 17:17:16
+ServiceName :PNRPAutoReg	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:17
+ServiceName :PNRPsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:17
+ServiceName :PolicyAgent	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:17
+ServiceName :Power	Service Status :Running,
+
+ 
+28-03-2024 17:17:18
+ServiceName :PrintNotify	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:18
+ServiceName :ProfSvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:18
+ServiceName :PushToInstall	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:18
+ServiceName :QWAVE	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:19
+ServiceName :RAPSService	Service Status :Running,
+
+ 
+28-03-2024 17:17:19
+ServiceName :RasAuto	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:19
+ServiceName :RasMan	Service Status :Running,
+
+ 
+28-03-2024 17:17:19
+ServiceName :RemoteAccess	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:20
+ServiceName :RemoteRegistry	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:20
+ServiceName :RetailDemo	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:20
+ServiceName :RmSvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:20
+ServiceName :RNDBWM	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:21
+ServiceName :RpcEptMapper	Service Status :Running,
+
+ 
+28-03-2024 17:17:21
+ServiceName :RpcLocator	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:21
+ServiceName :RpcSs	Service Status :Running,
+
+ 
+28-03-2024 17:17:21
+ServiceName :RstMwService	Service Status :Running,
+
+ 
+28-03-2024 17:17:22
+ServiceName :RtkAudioUniversalService	Service Status :Running,
+
+ 
+28-03-2024 17:17:22
+ServiceName :SamSs	Service Status :Running,
+
+ 
+28-03-2024 17:17:22
+ServiceName :SCardSvr	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:22
+ServiceName :ScDeviceEnum	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:23
+ServiceName :Schedule	Service Status :Running,
+
+ 
+28-03-2024 17:17:23
+ServiceName :SCPolicySvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:23
+ServiceName :SDRSVC	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:23
+ServiceName :seclogon	Service Status :Running,
+
+ 
+28-03-2024 17:17:24
+ServiceName :SecurityHealthService	Service Status :Running,
+
+ 
+28-03-2024 17:17:24
+ServiceName :SEMgrSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:24
+ServiceName :SENS	Service Status :Running,
+
+ 
+28-03-2024 17:17:24
+ServiceName :Sense	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:24
+ServiceName :SensorDataService	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:25
+ServiceName :SensorService	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:25
+ServiceName :SensrSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:25
+ServiceName :SessionEnv	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:25
+ServiceName :SessionSvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:26
+ServiceName :SgrmBroker	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:26
+ServiceName :SharedAccess	Service Status :Running,
+
+ 
+28-03-2024 17:17:26
+ServiceName :SharedRealitySvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:26
+ServiceName :ShellHWDetection	Service Status :Running,
+
+ 
+28-03-2024 17:17:27
+ServiceName :shpamsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:27
+ServiceName :SmartByte Analytics Service	Service Status :Running,
+
+ 
+28-03-2024 17:17:27
+ServiceName :SmartByte Network Service x64	Service Status :Running,
+
+ 
+28-03-2024 17:17:27
+ServiceName :smphost	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:28
+ServiceName :SmsRouter	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:28
+ServiceName :SNMPTrap	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:28
+ServiceName :spectrum	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:28
+ServiceName :Spooler	Service Status :Running,
+
+ 
+28-03-2024 17:17:29
+ServiceName :sppsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:29
+ServiceName :SQLBrowser	Service Status :Running,
+
+ 
+28-03-2024 17:17:29
+ServiceName :SQLSERVERAGENT	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:29
+ServiceName :SQLTELEMETRY	Service Status :Running,
+
+ 
+28-03-2024 17:17:30
+ServiceName :SQLWriter	Service Status :Running,
+
+ 
+28-03-2024 17:17:30
+ServiceName :SSDPSRV	Service Status :Running,
+
+ 
+28-03-2024 17:17:30
+ServiceName :ssh-agent	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:30
+ServiceName :SstpSvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:31
+ServiceName :StateRepository	Service Status :Running,
+
+ 
+28-03-2024 17:17:31
+ServiceName :StiSvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:31
+ServiceName :StorSvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:32
+ServiceName :SupportAssistAgent	Service Status :Running,
+
+ 
+28-03-2024 17:17:32
+ServiceName :svsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:32
+ServiceName :swprv	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:32
+ServiceName :SysMain	Service Status :Running,
+
+ 
+28-03-2024 17:17:33
+ServiceName :SystemEventsBroker	Service Status :Running,
+
+ 
+28-03-2024 17:17:33
+ServiceName :TapiSrv	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:33
+ServiceName :TbtP2pShortcutService	Service Status :Running,
+
+ 
+28-03-2024 17:17:33
+ServiceName :TermService	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:34
+ServiceName :TextInputManagementService	Service Status :Running,
+
+ 
+28-03-2024 17:17:34
+ServiceName :Themes	Service Status :Running,
+
+ 
+28-03-2024 17:17:34
+ServiceName :TieringEngineService	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:35
+ServiceName :TimeBrokerSvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:35
+ServiceName :TokenBroker	Service Status :Running,
+
+ 
+28-03-2024 17:17:35
+ServiceName :TrkWks	Service Status :Running,
+
+ 
+28-03-2024 17:17:35
+ServiceName :TroubleshootingSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:36
+ServiceName :TrustedInstaller	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:36
+ServiceName :tzautoupdate	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:36
+ServiceName :UevAgentService	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:36
+ServiceName :uhssvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:37
+ServiceName :UmRdpService	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:37
+ServiceName :upnphost	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:37
+ServiceName :UserManager	Service Status :Running,
+
+ 
+28-03-2024 17:17:37
+ServiceName :UsoSvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:38
+ServiceName :VacSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:38
+ServiceName :VaultSvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:38
+ServiceName :vds	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:39
+ServiceName :vmcompute	Service Status :Running,
+
+ 
+28-03-2024 17:17:39
+ServiceName :vmicguestinterface	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:39
+ServiceName :vmicheartbeat	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:39
+ServiceName :vmickvpexchange	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:40
+ServiceName :vmicrdv	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:40
+ServiceName :vmicshutdown	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:40
+ServiceName :vmictimesync	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:40
+ServiceName :vmicvmsession	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:41
+ServiceName :vmicvss	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:41
+ServiceName :vmms	Service Status :Running,
+
+ 
+28-03-2024 17:17:41
+ServiceName :VSInstallerElevationService	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:41
+ServiceName :VSS	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:42
+ServiceName :VSStandardCollectorService150	Service Status :Running,
+
+ 
+28-03-2024 17:17:42
+ServiceName :W32Time	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:42
+ServiceName :WaaSMedicSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:42
+ServiceName :WalletService	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:43
+ServiceName :WarpJITSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:43
+ServiceName :WavesAudioService	Service Status :Running,
+
+ 
+28-03-2024 17:17:43
+ServiceName :WavesSysSvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:44
+ServiceName :wbengine	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:44
+ServiceName :WbioSrvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:44
+ServiceName :Wcmsvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:44
+ServiceName :wcncsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:45
+ServiceName :WdiServiceHost	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:45
+ServiceName :WdiSystemHost	Service Status :Running,
+
+ 
+28-03-2024 17:17:45
+ServiceName :WdNisSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:46
+ServiceName :WebClient	Service Status :Running,
+
+ 
+28-03-2024 17:17:46
+ServiceName :webthreatdefsvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:46
+ServiceName :Wecsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:46
+ServiceName :WEPHOSTSVC	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:47
+ServiceName :wercplsupport	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:47
+ServiceName :WerSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:47
+ServiceName :WFDSConMgrSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:48
+ServiceName :WiaRpc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:48
+ServiceName :WinDefend	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:48
+ServiceName :WinHttpAutoProxySvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:48
+ServiceName :Winmgmt	Service Status :Running,
+
+ 
+28-03-2024 17:17:49
+ServiceName :WinRM	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:49
+ServiceName :wisvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:49
+ServiceName :WlanSvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:50
+ServiceName :wlidsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:50
+ServiceName :wlpasvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:50
+ServiceName :WManSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:50
+ServiceName :wmiApSrv	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:51
+ServiceName :WMIRegistrationService	Service Status :Running,
+
+ 
+28-03-2024 17:17:51
+ServiceName :WMPNetworkSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:51
+ServiceName :workfolderssvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:51
+ServiceName :WpcMonSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:52
+ServiceName :WPDBusEnum	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:52
+ServiceName :WpnService	Service Status :Running,
+
+ 
+28-03-2024 17:17:52
+ServiceName :wscsvc	Service Status :Running,
+
+ 
+28-03-2024 17:17:52
+ServiceName :WSearch	Service Status :Running,
+
+ 
+28-03-2024 17:17:53
+ServiceName :wuauserv	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:53
+ServiceName :WwanSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:53
+ServiceName :XblAuthManager	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:53
+ServiceName :XblGameSave	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:54
+ServiceName :XboxGipSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:54
+ServiceName :XboxNetApiSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:54
+ServiceName :AarSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:55
+ServiceName :BcastDVRUserService_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:55
+ServiceName :BluetoothUserService_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:55
+ServiceName :CaptureService_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:55
+ServiceName :cbdhsvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:17:56
+ServiceName :CDPUserSvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:17:56
+ServiceName :CloudBackupRestoreSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:56
+ServiceName :ConsentUxUserSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:57
+ServiceName :CredentialEnrollmentManagerUserSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:57
+ServiceName :DeviceAssociationBrokerSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:57
+ServiceName :DevicePickerUserSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:57
+ServiceName :DevicesFlowUserSvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:17:58
+ServiceName :MessagingService_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:58
+ServiceName :NPSMSvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:17:58
+ServiceName :OneSyncSvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:17:58
+ServiceName :P9RdrService_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:59
+ServiceName :PenService_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:59
+ServiceName :PimIndexMaintenanceSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:59
+ServiceName :PrintWorkflowUserSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:17:59
+ServiceName :UdkUserSvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:18:00
+ServiceName :UnistoreSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:18:00
+ServiceName :UserDataSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:18:00
+ServiceName :webthreatdefusersvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:18:01
+ServiceName :WpnUserService_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:18:03
+ get Monitor Details  ****************************************
+
+ 
+28-03-2024 17:18:03
+Name :Generic PnP Monitor,
+
+ 
+28-03-2024 17:18:03   
+Availability :3,
+
+ 
+28-03-2024 17:18:03
+Caption :Generic PnP Monitor
+
+ 
+28-03-2024 17:18:03
+InstallDate :01-01-0001 00:00:00,
+
+ 
+28-03-2024 17:18:03
+ConfigManagerUserConfig :False,
+
+ 
+28-03-2024 17:18:03
+CreationClassName :Win32_DesktopMonitor,
+
+ 
+28-03-2024 17:18:03
+Description :Generic PnP Monitor,
+
+ 
+28-03-2024 17:18:03
+DeviceID :DesktopMonitor1,
+
+ 
+28-03-2024 17:18:03    
+ErrorCleared :,
+
+ 
+28-03-2024 17:18:03
+ErrorDescription :,
+
+ 
+28-03-2024 17:18:03
+ConfigManagerUserConfig :False,
+
+ 
+28-03-2024 17:18:03   
+LastErrorCode :,
+
+ 
+28-03-2024 17:18:03
+MonitorManufacturer :(Standard monitor types),
+
+ 
+28-03-2024 17:18:03
+PNPDeviceID :DISPLAY\CMN152E\4&24C9CDD0&0&UID8388688,
+
+ 
+28-03-2024 17:18:03
+MonitorType :Generic PnP Monitor,
+
+ 
+28-03-2024 17:18:03
+PixelsPerXLogicalInch :120,
+
+ 
+28-03-2024 17:18:03
+PixelsPerYLogicalInch :120,
+
+ 
+28-03-2024 17:18:03        
+Status :OK,
+
+ 
+28-03-2024 17:18:03
+SystemCreationClassName :Win32_ComputerSystem,
+
+ 
+28-03-2024 17:18:03
+SystemName :DESKTOP-FVH7TML,
+
+ 
+28-03-2024 17:18:50
+Network Details - 
+ Domain- 
+ Host-DESKTOP-FVH7TML 
+ IP-192.168.29.19
+
+ 
+28-03-2024 17:18:51
+
+Jitter - 1.58333333333333
+
+ 
+28-03-2024 17:18:51    
+
+ISP Name - Jio
+
+ 
+28-03-2024 17:18:55
+ utilization ****************************************************** 
+
+ 
+28-03-2024 17:18:55
+ cpuUtilization:	 1.4	 ramUtilization: 	47.1	 pageUtilization: 	0.960099	 networkUtilization: 	0.1023223
+
+ 
+28-03-2024 17:18:55Paging File", "% Usage", "_Total: 0.960099
+
+ 
+28-03-2024 17:18:55Memory", "Committed Bytes: 17590.36
+
+ 
+28-03-2024 17:18:55Memory", "Pool Paged Bytes: 785.6
+
+ 
+28-03-2024 17:18:55"Memory", "Pool Nonpaged Bytes: 925.1
+
+ 
+28-03-2024 17:18:55Memory", "Cache Bytes: 581.1289
+
+ 
+28-03-2024 17:18:55getMemAvailable: 17178
+
+ 
+28-03-2024 17:18:57
+ Machine Full Name: DESKTOP-FVH7TML.
+
+ 
+28-03-2024 17:18:57
+ Processor: 11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz
+
+ 
+28-03-2024 17:18:57
+ sysProcessorID: BFEBFBFF000806C2
+
+ 
+28-03-2024 17:18:57    
+ RAM(MB): 32768
+
+ 
+28-03-2024 17:18:57
+ sys product id: 06KTVX
+
+ 
+28-03-2024 17:18:57
+ Processor: 11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz
+
+ 
+28-03-2024 17:18:57
+ sys Os Name: Microsoft Windows 11 Pro
+
+ 
+28-03-2024 17:18:57
+ sys Os Version: Microsoft Windows NT 6.2.9200.0
+
+ 
+28-03-2024 17:18:57
+ Windows version: 10.0.22621,
+
+ 
+28-03-2024 17:18:57
+ OS type: Windows10,
+
+ 
+28-03-2024 17:18:57
+ Is workstation: True,
+
+ 
+28-03-2024 17:18:57 
+ Is server: False,
+
+ 
+28-03-2024 17:18:57
+ Windows Release ID: 2009,
+
+ 
+28-03-2024 17:18:57
+Windows Display Version: 22H2 ,
+
+ 
+28-03-2024 17:18:57
+Windows Update Build Revision: 3296
+
+ 
+28-03-2024 17:18:57
+ get Software Details  ****************************************
+
+ 
+28-03-2024 17:18:57
+DisplayName :Visual Studio Professional 2022	EstimatedSize :,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Adobe Genuine Service	EstimatedSize :,
+
+ 
+28-03-2024 17:18:57
+DisplayName :AnyDesk	EstimatedSize :2048,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Google Chrome	EstimatedSize :,
+
+ 
+28-03-2024 17:18:57
+DisplayName :IntelliJ IDEA 2023.1.4	EstimatedSize :,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Edge	EstimatedSize :,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Edge Update	EstimatedSize :,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Edge WebView2 Runtime	EstimatedSize :,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Help Viewer 2.3	EstimatedSize :12438,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Adobe Photoshop 2021	EstimatedSize :3405569,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Bluetooth Framework .NET Edition (Demo Version) version 7.16.18.0	EstimatedSize :14221,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Tools x86	EstimatedSize :20792,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664	EstimatedSize :21062,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_devenvsharedmsi	EstimatedSize :184,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Tools arm64	EstimatedSize :11836,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WiX Toolset v3.11 Native 2015 SDK	EstimatedSize :17764,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows IoT Extension SDK	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Visual C++ Library CRT Desktop Appx Package	EstimatedSize :43348,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense UAP - en-us	EstimatedSize :12848,
+
+ 
+28-03-2024 17:18:57
+DisplayName :VS Immersive Activate Helper	EstimatedSize :89,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Visual Studio 2017 Isolated Shell for SSMS	EstimatedSize :412896,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps DirectX x86 Remote	EstimatedSize :2864,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense Mobile - en-us	EstimatedSize :184,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Signing Tools	EstimatedSize :7308,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Windows Communication Foundation Diagnostic Pack for x86	EstimatedSize :176,
+
+ 
+28-03-2024 17:18:57
+DisplayName :icecap_collectionresourcesx64	EstimatedSize :92,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Software Development Kit - Windows 10.0.18362.1	EstimatedSize :2316756,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET CoreRuntime SDK	EstimatedSize :22948,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_filehandler_amd64	EstimatedSize :4392,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Universal CRT Extension SDK	EstimatedSize :6416,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Team Extension SDK	EstimatedSize :172,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Mobile Extension SDK Contracts	EstimatedSize :152,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense PPI - en-us	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Libs arm64	EstimatedSize :88444,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WS_Silent	EstimatedSize :782972,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Dell Digital Delivery Services	EstimatedSize :77816,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Libs x64	EstimatedSize :76492,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Dell SupportAssist Remediation	EstimatedSize :91106,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Framework 4.7.2 Targeting Pack	EstimatedSize :43356,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Libs x64	EstimatedSize :74040,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Framework Cumulative Intellisense Pack for Visual Studio (ENU)	EstimatedSize :72820,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Tools x86	EstimatedSize :17428,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WiX Toolset v3.11 Native 2013 SDK	EstimatedSize :16504,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_minshellinteropsharedmsi	EstimatedSize :1608,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Libs	EstimatedSize :176056,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows IoT Extension SDK Contracts	EstimatedSize :392,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK ARM Desktop Tools	EstimatedSize :2800,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Modern Versioned Developer Tools	EstimatedSize :7664,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense IoT - Other Languages	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Libs	EstimatedSize :160968,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Targeting Pack - 6.0.13 (x86)	EstimatedSize :29412,
+
+ 
+28-03-2024 17:18:57
+DisplayName :ClickOnce Bootstrapper Package for Microsoft .NET Framework	EstimatedSize :8488,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Libs x86	EstimatedSize :82792,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Exchange Web Services Managed API 2.1	EstimatedSize :5300,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense UAP - Other Languages	EstimatedSize :122412,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Windows Desktop Runtime - 3.1.32 (x86)	EstimatedSize :79840,
+
+ 
+28-03-2024 17:18:57
+DisplayName :sptools_Microsoft.VisualStudio.OfficeDeveloperTools.Msi	EstimatedSize :52,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2022 X86 Debug Runtime - 14.34.31931	EstimatedSize :25114,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Contracts	EstimatedSize :13084,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Dell SupportAssist OS Recovery Plugin for Dell Update	EstimatedSize :64089,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Libs arm	EstimatedSize :71984,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinAppDeploy	EstimatedSize :912,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Metadata	EstimatedSize :3864,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Facade Windows WinMD Versioned	EstimatedSize :164,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK	EstimatedSize :3168,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Tools arm64	EstimatedSize :12120,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Headers arm64	EstimatedSize :100,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Mobile Extension SDK	EstimatedSize :6864,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps DirectX x86 Remote	EstimatedSize :3552,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Facade Windows WinMD Versioned	EstimatedSize :164,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense IoT - en-us	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030	EstimatedSize :17800,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WebAdvisor by McAfee	EstimatedSize :62935,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense IoT - en-us	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_clickoncebootstrappermsires	EstimatedSize :148,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Desktop Extension SDK Contracts	EstimatedSize :468,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense IoT - Other Languages	EstimatedSize :392,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows IoT Extension SDK Contracts	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :sptools_Microsoft.VisualStudio.Vsto.Msi.Resources	EstimatedSize :22856,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Headers x86	EstimatedSize :90516,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Headers arm	EstimatedSize :96,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Open XML SDK 2.5 for Microsoft Office	EstimatedSize :27250,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Desktop Extension SDK	EstimatedSize :60,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Visual C++ Library CRT Desktop Appx Package	EstimatedSize :65472,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Xamarin Remoted iOS Simulator	EstimatedSize :16651,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WiX Toolset v3.11 Core	EstimatedSize :22688,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense UAP - en-us	EstimatedSize :12900,
+
+ 
+28-03-2024 17:18:57
+DisplayName :SDK ARM Redistributables	EstimatedSize :2772,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft ASP.NET Core 6.0.13 Shared Framework (x86)	EstimatedSize :20839,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense Mobile - en-us	EstimatedSize :188,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Headers arm64	EstimatedSize :84,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Software Development Kit - Windows 10.0.19041.685	EstimatedSize :1946425,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET CoreRuntime For CoreCon	EstimatedSize :68508,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_FileTracker_Singleton	EstimatedSize :1416,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows IoT Extension SDK Contracts	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Java Auto Updater	EstimatedSize :2414,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Tools	EstimatedSize :135804,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Runtime - 7.0.2 (x86)	EstimatedSize :64836,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Headers arm	EstimatedSize :96,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Signing Tools	EstimatedSize :6600,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Universal CRT Extension SDK	EstimatedSize :6448,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft ASP.NET Core 7.0.2 Shared Framework (x86)	EstimatedSize :23555,
+
+ 
+28-03-2024 17:18:57
+DisplayName :windows_toolscorepkg	EstimatedSize :166920,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Host FX Resolver - 7.0.2 (x86)	EstimatedSize :292,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Tools x86	EstimatedSize :18524,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Libs x64	EstimatedSize :88084,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Tools arm64	EstimatedSize :14240,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_communitymsires	EstimatedSize :20,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_filehandler_x86	EstimatedSize :2128,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft ASP.NET Web Tools Packages 17.0 - ENU	EstimatedSize :334328,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET SDK 5.0.408 (x64)	EstimatedSize :683454,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows IoT Extension SDK	EstimatedSize :392,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Visual C++ Library CRT Appx Resource Package	EstimatedSize :72,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Team Extension SDK Contracts	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :icecap_collectionresources	EstimatedSize :92,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Team Extension SDK Contracts	EstimatedSize :4,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK EULA	EstimatedSize :284,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Team Extension SDK Contracts	EstimatedSize :4,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Metadata	EstimatedSize :3860,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Libs arm	EstimatedSize :66224,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Kits Configuration Installer	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Headers	EstimatedSize :238716,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense PPI - en-us	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_CoreEditorFonts	EstimatedSize :728,
+
+ 
+28-03-2024 17:18:57
+DisplayName :SQL Server Management Studio	EstimatedSize :603936,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Tools	EstimatedSize :132412,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_tipsmsi	EstimatedSize :46,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Headers x64	EstimatedSize :40,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_clickoncebootstrappermsi	EstimatedSize :532,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense IoT - Other Languages	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense UAP - en-us	EstimatedSize :12524,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Universal CRT Headers Libraries and Sources	EstimatedSize :289372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.34.31931	EstimatedSize :18373,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Entity Framework 6.2.0 Tools  for Visual Studio 2022	EstimatedSize :107436,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Team Extension SDK	EstimatedSize :396,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Headers x86	EstimatedSize :95648,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Universal General MIDI DLS Extension SDK	EstimatedSize :3052,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Targeting Pack - 7.0.2 (x86)	EstimatedSize :33752,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Visual C++ Library CRT Appx Package	EstimatedSize :8732,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Mobile Extension SDK	EstimatedSize :6868,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_minshellmsires	EstimatedSize :144,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft NetStandard SDK	EstimatedSize :508756,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Universal CRT Headers Libraries and Sources	EstimatedSize :531480,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Metadata	EstimatedSize :3864,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Tools x64	EstimatedSize :17664,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WiX Toolset v3.11.2.4516	EstimatedSize :141439,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Mobile Extension SDK Contracts	EstimatedSize :152,
+
+ 
+28-03-2024 17:18:57
+DisplayName :MSI Development Tools	EstimatedSize :4120,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_clickoncesigntoolmsi	EstimatedSize :308,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Visual C++ Library CRT ARM64 Appx Package	EstimatedSize :39344,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Libs x86	EstimatedSize :66308,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Workflow Debugger v1.0 for x86	EstimatedSize :472,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Redistributables	EstimatedSize :5852,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Libs x86	EstimatedSize :71600,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Integration Services	EstimatedSize :166552,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense Desktop - Other Languages	EstimatedSize :5768,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664	EstimatedSize :2076,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows App Certification Kit SupportedApiList x86	EstimatedSize :3792,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense IoT - en-us	EstimatedSize :392,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Libs arm64	EstimatedSize :136432,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense Desktop - Other Languages	EstimatedSize :7088,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft TestPlatform SDK Local Feed	EstimatedSize :790604,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Core Runtime - 3.1.32 (x86)	EstimatedSize :59748,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Universal CRT Redistributable	EstimatedSize :5188,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual Studio Setup WMI Provider	EstimatedSize :4068,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft ASP.NET Core 7.0.2 Targeting Pack (x86)	EstimatedSize :14467,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Headers x86	EstimatedSize :90252,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Intel® Software Installer	EstimatedSize :105851,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Runtime - 6.0.13 (x86)	EstimatedSize :63560,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense UAP - Other Languages	EstimatedSize :125312,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WiX Toolset v3.11 Managed SDK	EstimatedSize :3972,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft SQL Server Management Studio - 19.0.2	EstimatedSize :2861605,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_BlendMsi	EstimatedSize :44,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_SQLClickOnceBootstrappermsi	EstimatedSize :12452,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Analysis Services OLE DB Provider	EstimatedSize :258888,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinAppDeploy	EstimatedSize :2284,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinAppDeploy	EstimatedSize :904,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Headers	EstimatedSize :219644,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Universal CRT Redistributable	EstimatedSize :5912,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Mobile Extension SDK Contracts	EstimatedSize :156,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps DirectX x86 Remote	EstimatedSize :2864,
+
+ 
+28-03-2024 17:18:57
+DisplayName :icecap_collection_neutral	EstimatedSize :4113,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Universal CRT Extension SDK	EstimatedSize :9364,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense Mobile - en-us	EstimatedSize :188,
+
+ 
+28-03-2024 17:18:57
+DisplayName :SSMS Post Install Tasks	EstimatedSize :304,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK EULA	EstimatedSize :284,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK ARM Desktop Tools	EstimatedSize :2812,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Framework 4.8 SDK	EstimatedSize :21068,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Libs arm64	EstimatedSize :76196,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual Studio Tools for Applications 2017 x86 Hosting Support	EstimatedSize :3832,
+
+ 
+28-03-2024 17:18:57
+DisplayName :MSI Development Tools	EstimatedSize :4196,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vcpp_crt.redist.clickonce	EstimatedSize :4,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Universal CRT Headers Libraries and Sources	EstimatedSize :415940,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Libs arm	EstimatedSize :82664,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Help Viewer 2.3	EstimatedSize :13260,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft ASP.NET Diagnostic Pack for Visual Studio	EstimatedSize :56,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense PPI - Other Languages	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_Graphics_Singletonx86	EstimatedSize :3799,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows IoT Extension SDK	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664	EstimatedSize :17602,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense PPI - Other Languages	EstimatedSize :392,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Headers	EstimatedSize :230528,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Desktop Extension SDK Contracts	EstimatedSize :488,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Framework 4.8 Targeting Pack (ENU)	EstimatedSize :69940,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK EULA	EstimatedSize :284,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Tools	EstimatedSize :114140,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Universal CRT Redistributable	EstimatedSize :5208,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft ASP.NET Core 6.0.13 Targeting Pack (x86)	EstimatedSize :13611,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Facade Windows WinMD Versioned	EstimatedSize :164,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Runtime - 5.0.17 (x64)	EstimatedSize :93278,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Universal General MIDI DLS Extension SDK	EstimatedSize :3052,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Universal CRT Tools x86	EstimatedSize :1664,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK ARM Desktop Tools	EstimatedSize :3208,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Visual C++ Library CRT Desktop Appx Package	EstimatedSize :43164,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.34.31931	EstimatedSize :1852,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Adobe Refresh Manager	EstimatedSize :2024,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_vswebprotocolselectormsi	EstimatedSize :1308,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Windows Desktop Runtime - 6.0.13 (x86)	EstimatedSize :83588,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Contracts	EstimatedSize :13456,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Managed Apps Libs	EstimatedSize :7748,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030	EstimatedSize :9900,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual Studio Setup Configuration	EstimatedSize :560,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense Desktop - Other Languages	EstimatedSize :7188,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Desktop Extension SDK	EstimatedSize :44,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Framework 4.7.2 Targeting Pack (ENU)	EstimatedSize :70280,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_communitysharedmsi	EstimatedSize :33056,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Windows Desktop Runtime - 7.0.2 (x86)	EstimatedSize :84708,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Signing Tools	EstimatedSize :8500,
+
+ 
+28-03-2024 17:18:57
+DisplayName :SQL Server Management Studio Language Pack - English	EstimatedSize :324,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK DirectX x86 Remote	EstimatedSize :412,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Framework 4.8 Targeting Pack	EstimatedSize :44744,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense Desktop - en-us	EstimatedSize :724,
+
+ 
+28-03-2024 17:18:57
+DisplayName :SDK ARM Additions	EstimatedSize :412,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030	EstimatedSize :1772,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Host - 7.0.2 (x86)	EstimatedSize :484,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Contracts	EstimatedSize :12888,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Visual C++ Library CRT ARM64 Appx Package	EstimatedSize :5708,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2022 X86 Additional Runtime - 14.34.31931	EstimatedSize :10316,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft ASP.NET Core 3.1.32 Shared Framework (x86)	EstimatedSize :17663,
+
+ 
+28-03-2024 17:18:57
+DisplayName :vs_minshellsharedmsi	EstimatedSize :260,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Headers x64	EstimatedSize :40,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Windows Desktop Targeting Pack - 7.0.2 (x86)	EstimatedSize :11944,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft UniversalWindowsPlatform SDK	EstimatedSize :4145016,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Headers arm	EstimatedSize :96,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Headers x64	EstimatedSize :40,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Headers arm64	EstimatedSize :84,
+
+ 
+28-03-2024 17:18:57
+DisplayName :IntelliTraceProfilerProxy	EstimatedSize :9,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps Libs	EstimatedSize :210040,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030	EstimatedSize :21014,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Team Extension SDK	EstimatedSize :168,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Managed Apps Libs	EstimatedSize :6052,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WiX Toolset v3.11 Native 2012 SDK	EstimatedSize :16504,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Apps	EstimatedSize :96,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense UAP - Other Languages	EstimatedSize :126512,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Desktop Extension SDK	EstimatedSize :52,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664	EstimatedSize :9456,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.34.31931	EstimatedSize :20984,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WiX Toolset v3.11 Native 2017 SDK	EstimatedSize :17840,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Desktop Extension SDK Contracts	EstimatedSize :504,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WiX Toolset v3.11 Native 2010 SDK	EstimatedSize :13968,
+
+ 
+28-03-2024 17:18:57
+DisplayName :sptools_Microsoft.VisualStudio.Vsto.Msi.x64	EstimatedSize :604,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Universal General MIDI DLS Extension SDK	EstimatedSize :3056,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Software Development Kit - Windows 10.0.22000.832	EstimatedSize :2414800,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Windows Desktop Targeting Pack - 6.0.13 (x86)	EstimatedSize :22724,
+
+ 
+28-03-2024 17:18:57
+DisplayName :MSI Development Tools	EstimatedSize :4116,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows Mobile Extension SDK	EstimatedSize :6868,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK AddOn	EstimatedSize :152,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Tools x64	EstimatedSize :21152,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense Desktop - en-us	EstimatedSize :596,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support	EstimatedSize :3072,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Modern Versioned Developer Tools	EstimatedSize :7628,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft .NET Native SDK	EstimatedSize :1108132,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219	EstimatedSize :11417,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Realtek Audio Driver	EstimatedSize :414008,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Visual C++ Library CRT Appx Package	EstimatedSize :10140,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual Studio Tools for Applications 2019	EstimatedSize :14545,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Microsoft Visual Studio Tools for Applications 2017	EstimatedSize :19650,
+
+ 
+28-03-2024 17:18:57
+DisplayName :sptools_Microsoft.VisualStudio.Vsto.Msi	EstimatedSize :24332,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Desktop Tools x64	EstimatedSize :16776,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Modern Non-Versioned Developer Tools	EstimatedSize :10776,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense Desktop - en-us	EstimatedSize :720,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK Modern Versioned Developer Tools	EstimatedSize :7692,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows App Certification Kit x64	EstimatedSize :77928,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Browser for SQL Server 2022	EstimatedSize :11812,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense PPI - en-us	EstimatedSize :392,
+
+ 
+28-03-2024 17:18:57
+DisplayName :WinRT Intellisense PPI - Other Languages	EstimatedSize :372,
+
+ 
+28-03-2024 17:18:57
+DisplayName :Windows SDK for Windows Store Managed Apps Libs	EstimatedSize :6340,
+
+ 
+28-03-2024 17:18:57
+*************** get Service Details  ****************************************
+
+ 
+28-03-2024 17:18:57
+ServiceName :AdobeARMservice	Service Status :Running,
+
+ 
+28-03-2024 17:18:58
+ServiceName :AGMService	Service Status :Running,
+
+ 
+28-03-2024 17:18:58
+ServiceName :AJRouter	Service Status :Stopped,
+
+ 
+28-03-2024 17:18:58
+ServiceName :ALG	Service Status :Stopped,
+
+ 
+28-03-2024 17:18:58
+ServiceName :AnyDesk	Service Status :Running,
+
+ 
+28-03-2024 17:18:59
+ServiceName :AppIDSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:18:59
+ServiceName :Appinfo	Service Status :Running,
+
+ 
+28-03-2024 17:18:59
+ServiceName :AppMgmt	Service Status :Running,
+
+ 
+28-03-2024 17:18:59
+ServiceName :AppReadiness	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:00
+ServiceName :AppVClient	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:00
+ServiceName :AppXSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:00
+ServiceName :aspnet_state	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:00
+ServiceName :AssignedAccessManagerSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:01
+ServiceName :AudioEndpointBuilder	Service Status :Running,
+
+ 
+28-03-2024 17:19:01
+ServiceName :Audiosrv	Service Status :Running,
+
+ 
+28-03-2024 17:19:01
+ServiceName :autotimesvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:02
+ServiceName :AxInstSV	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:02
+ServiceName :AzureAttestService	Service Status :Running,
+
+ 
+28-03-2024 17:19:02
+ServiceName :BDESVC	Service Status :Running,
+
+ 
+28-03-2024 17:19:02
+ServiceName :BFE	Service Status :Running,
+
+ 
+28-03-2024 17:19:03
+ServiceName :BITS	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:03
+ServiceName :BrokerInfrastructure	Service Status :Running,
+
+ 
+28-03-2024 17:19:03
+ServiceName :Browser	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:03
+ServiceName :BTAGService	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:04
+ServiceName :BthAvctpSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:04
+ServiceName :bthserv	Service Status :Running,
+
+ 
+28-03-2024 17:19:04
+ServiceName :camsvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:04
+ServiceName :CDPSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:05
+ServiceName :CertPropSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:05
+ServiceName :ClickToRunSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:05
+ServiceName :ClipSVC	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:06
+ServiceName :cloudidsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:06
+ServiceName :COMSysApp	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:06
+ServiceName :CoreMessagingRegistrar	Service Status :Running,
+
+ 
+28-03-2024 17:19:06
+ServiceName :cplspcon	Service Status :Running,
+
+ 
+28-03-2024 17:19:07
+ServiceName :CryptSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:07
+ServiceName :CscService	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:07
+ServiceName :DcomLaunch	Service Status :Running,
+
+ 
+28-03-2024 17:19:07
+ServiceName :dcsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:08
+ServiceName :DDVCollectorSvcApi	Service Status :Running,
+
+ 
+28-03-2024 17:19:08
+ServiceName :DDVDataCollector	Service Status :Running,
+
+ 
+28-03-2024 17:19:08
+ServiceName :DDVRulesProcessor	Service Status :Running,
+
+ 
+28-03-2024 17:19:08
+ServiceName :defragsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:09
+ServiceName :Dell Digital Delivery Services	Service Status :Running,
+
+ 
+28-03-2024 17:19:09
+ServiceName :Dell SupportAssist Remediation	Service Status :Running,
+
+ 
+28-03-2024 17:19:09
+ServiceName :DellClientManagementService	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:10
+ServiceName :DellTechHub	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:10
+ServiceName :DeviceAssociationService	Service Status :Running,
+
+ 
+28-03-2024 17:19:10
+ServiceName :DeviceInstall	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:10
+ServiceName :DevQueryBroker	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:11
+ServiceName :Dhcp	Service Status :Running,
+
+ 
+28-03-2024 17:19:11
+ServiceName :diagnosticshub.standardcollector.service	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:11
+ServiceName :diagsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:11
+ServiceName :DiagTrack	Service Status :Running,
+
+ 
+28-03-2024 17:19:12
+ServiceName :DialogBlockingService	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:12
+ServiceName :DispBrokerDesktopSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:12
+ServiceName :DisplayEnhancementService	Service Status :Running,
+
+ 
+28-03-2024 17:19:13
+ServiceName :DmEnrollmentSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:13
+ServiceName :dmwappushservice	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:13
+ServiceName :Dnscache	Service Status :Running,
+
+ 
+28-03-2024 17:19:13
+ServiceName :DoSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:14
+ServiceName :dot3svc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:14
+ServiceName :DPS	Service Status :Running,
+
+ 
+28-03-2024 17:19:14
+ServiceName :DsmSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:14
+ServiceName :DsSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:15
+ServiceName :DusmSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:15
+ServiceName :EapHost	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:15
+ServiceName :edgeupdate	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:15
+ServiceName :edgeupdatem	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:16
+ServiceName :EFS	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:16
+ServiceName :Emageia Runnable Service 	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:16
+ServiceName :embeddedmode	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:17
+ServiceName :EntAppSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:17
+ServiceName :esifsvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:17
+ServiceName :EventLog	Service Status :Running,
+
+ 
+28-03-2024 17:19:17
+ServiceName :EventSystem	Service Status :Running,
+
+ 
+28-03-2024 17:19:18
+ServiceName :Fax	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:18
+ServiceName :fdPHost	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:18
+ServiceName :FDResPub	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:19
+ServiceName :fhsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:19
+ServiceName :FileSyncHelper	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:19
+ServiceName :FontCache	Service Status :Running,
+
+ 
+28-03-2024 17:19:19
+ServiceName :FontCache3.0.0.0	Service Status :Running,
+
+ 
+28-03-2024 17:19:20
+ServiceName :FrameServer	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:20
+ServiceName :FrameServerMonitor	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:20
+ServiceName :GameInputSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:20
+ServiceName :GoogleChromeElevationService	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:21
+ServiceName :gpsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:21
+ServiceName :GraphicsPerfSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:21
+ServiceName :gupdate	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:21
+ServiceName :gupdatem	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:22
+ServiceName :HgClientService	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:22
+ServiceName :hidserv	Service Status :Running,
+
+ 
+28-03-2024 17:19:22
+ServiceName :HNS	Service Status :Running,
+
+ 
+28-03-2024 17:19:22
+ServiceName :HvHost	Service Status :Running,
+
+ 
+28-03-2024 17:19:23
+ServiceName :iaStorAfsService	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:23
+ServiceName :icssvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:23
+ServiceName :igccservice	Service Status :Running,
+
+ 
+28-03-2024 17:19:23
+ServiceName :igfxCUIService2.0.0.0	Service Status :Running,
+
+ 
+28-03-2024 17:19:24
+ServiceName :IKEEXT	Service Status :Running,
+
+ 
+28-03-2024 17:19:24
+ServiceName :InstallService	Service Status :Running,
+
+ 
+28-03-2024 17:19:24
+ServiceName :Intel(R) Capability Licensing Service TCP IP Interface	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:25
+ServiceName :Intel(R) TPM Provisioning Service	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:25
+ServiceName :IntelAudioService	Service Status :Running,
+
+ 
+28-03-2024 17:19:25
+ServiceName :InventorySvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:25
+ServiceName :iphlpsvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:26
+ServiceName :IpxlatCfgSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:26
+ServiceName :jhi_service	Service Status :Running,
+
+ 
+28-03-2024 17:19:26
+ServiceName :KeyIso	Service Status :Running,
+
+ 
+28-03-2024 17:19:27
+ServiceName :KtmRm	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:27
+ServiceName :LanmanServer	Service Status :Running,
+
+ 
+28-03-2024 17:19:27
+ServiceName :LanmanWorkstation	Service Status :Running,
+
+ 
+28-03-2024 17:19:27
+ServiceName :lfsvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:28
+ServiceName :LicenseManager	Service Status :Running,
+
+ 
+28-03-2024 17:19:28
+ServiceName :lltdsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:28
+ServiceName :lmhosts	Service Status :Running,
+
+ 
+28-03-2024 17:19:28
+ServiceName :LSM	Service Status :Running,
+
+ 
+28-03-2024 17:19:29
+ServiceName :LxpSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:29
+ServiceName :LxssManager	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:29
+ServiceName :MapsBroker	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:30
+ServiceName :mc-fw-host	Service Status :Running,
+
+ 
+28-03-2024 17:19:30
+ServiceName :mc-wps-update	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:30
+ServiceName :McAfee WebAdvisor	Service Status :Running,
+
+ 
+28-03-2024 17:19:30
+ServiceName :McpManagementService	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:31
+ServiceName :MicrosoftEdgeElevationService	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:31
+ServiceName :MixedRealityOpenXRSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:31
+ServiceName :mpssvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:31
+ServiceName :MSDTC	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:32
+ServiceName :MSiSCSI	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:32
+ServiceName :msiserver	Service Status :Running,
+
+ 
+28-03-2024 17:19:32
+ServiceName :MsKeyboardFilter	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:33
+ServiceName :MSSQLSERVER	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:33
+ServiceName :NaturalAuthentication	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:33
+ServiceName :NcaSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:33
+ServiceName :NcbService	Service Status :Running,
+
+ 
+28-03-2024 17:19:34
+ServiceName :NcdAutoSetup	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:34
+ServiceName :Netlogon	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:34
+ServiceName :Netman	Service Status :Running,
+
+ 
+28-03-2024 17:19:34
+ServiceName :netprofm	Service Status :Running,
+
+ 
+28-03-2024 17:19:35
+ServiceName :NetSetupSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:35
+ServiceName :NetTcpPortSharing	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:35
+ServiceName :NgcCtnrSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:35
+ServiceName :NgcSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:36
+ServiceName :NlaSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:36
+ServiceName :nsi	Service Status :Running,
+
+ 
+28-03-2024 17:19:36
+ServiceName :nvagent	Service Status :Running,
+
+ 
+28-03-2024 17:19:36
+ServiceName :OneDrive Updater Service	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:37
+ServiceName :p2pimsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:37
+ServiceName :p2psvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:37
+ServiceName :PcaSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:37
+ServiceName :PeerDistSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:38
+ServiceName :perceptionsimulation	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:38
+ServiceName :PerfHost	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:38
+ServiceName :PhoneSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:39
+ServiceName :pla	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:39
+ServiceName :PlugPlay	Service Status :Running,
+
+ 
+28-03-2024 17:19:39
+ServiceName :PNRPAutoReg	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:39
+ServiceName :PNRPsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:40
+ServiceName :PolicyAgent	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:40
+ServiceName :Power	Service Status :Running,
+
+ 
+28-03-2024 17:19:40
+ServiceName :PrintNotify	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:40
+ServiceName :ProfSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:41
+ServiceName :PushToInstall	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:41
+ServiceName :QWAVE	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:41
+ServiceName :RAPSService	Service Status :Running,
+
+ 
+28-03-2024 17:19:41
+ServiceName :RasAuto	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:42
+ServiceName :RasMan	Service Status :Running,
+
+ 
+28-03-2024 17:19:42
+ServiceName :RemoteAccess	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:42
+ServiceName :RemoteRegistry	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:43
+ServiceName :RetailDemo	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:43
+ServiceName :RmSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:43
+ServiceName :RNDBWM	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:43
+ServiceName :RpcEptMapper	Service Status :Running,
+
+ 
+28-03-2024 17:19:44
+ServiceName :RpcLocator	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:44
+ServiceName :RpcSs	Service Status :Running,
+
+ 
+28-03-2024 17:19:44
+ServiceName :RstMwService	Service Status :Running,
+
+ 
+28-03-2024 17:19:44
+ServiceName :RtkAudioUniversalService	Service Status :Running,
+
+ 
+28-03-2024 17:19:45
+ServiceName :SamSs	Service Status :Running,
+
+ 
+28-03-2024 17:19:45
+ServiceName :SCardSvr	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:45
+ServiceName :ScDeviceEnum	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:45
+ServiceName :Schedule	Service Status :Running,
+
+ 
+28-03-2024 17:19:46
+ServiceName :SCPolicySvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:46
+ServiceName :SDRSVC	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:46
+ServiceName :seclogon	Service Status :Running,
+
+ 
+28-03-2024 17:19:46
+ServiceName :SecurityHealthService	Service Status :Running,
+
+ 
+28-03-2024 17:19:47
+ServiceName :SEMgrSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:47
+ServiceName :SENS	Service Status :Running,
+
+ 
+28-03-2024 17:19:47
+ServiceName :Sense	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:47
+ServiceName :SensorDataService	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:48
+ServiceName :SensorService	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:48
+ServiceName :SensrSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:48
+ServiceName :SessionEnv	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:49
+ServiceName :SessionSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:49
+ServiceName :SgrmBroker	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:49
+ServiceName :SharedAccess	Service Status :Running,
+
+ 
+28-03-2024 17:19:49
+ServiceName :SharedRealitySvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:50
+ServiceName :ShellHWDetection	Service Status :Running,
+
+ 
+28-03-2024 17:19:50
+ServiceName :shpamsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:50
+ServiceName :SmartByte Analytics Service	Service Status :Running,
+
+ 
+28-03-2024 17:19:50
+ServiceName :SmartByte Network Service x64	Service Status :Running,
+
+ 
+28-03-2024 17:19:51
+ServiceName :smphost	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:51
+ServiceName :SmsRouter	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:51
+ServiceName :SNMPTrap	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:51
+ServiceName :spectrum	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:52
+ServiceName :Spooler	Service Status :Running,
+
+ 
+28-03-2024 17:19:52
+ServiceName :sppsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:52
+ServiceName :SQLBrowser	Service Status :Running,
+
+ 
+28-03-2024 17:19:53
+ServiceName :SQLSERVERAGENT	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:53
+ServiceName :SQLTELEMETRY	Service Status :Running,
+
+ 
+28-03-2024 17:19:53
+ServiceName :SQLWriter	Service Status :Running,
+
+ 
+28-03-2024 17:19:53
+ServiceName :SSDPSRV	Service Status :Running,
+
+ 
+28-03-2024 17:19:54
+ServiceName :ssh-agent	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:54
+ServiceName :SstpSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:54
+ServiceName :StateRepository	Service Status :Running,
+
+ 
+28-03-2024 17:19:54
+ServiceName :StiSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:55
+ServiceName :StorSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:55
+ServiceName :SupportAssistAgent	Service Status :Running,
+
+ 
+28-03-2024 17:19:55
+ServiceName :svsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:55
+ServiceName :swprv	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:56
+ServiceName :SysMain	Service Status :Running,
+
+ 
+28-03-2024 17:19:56
+ServiceName :SystemEventsBroker	Service Status :Running,
+
+ 
+28-03-2024 17:19:56
+ServiceName :TapiSrv	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:56
+ServiceName :TbtP2pShortcutService	Service Status :Running,
+
+ 
+28-03-2024 17:19:57
+ServiceName :TermService	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:57
+ServiceName :TextInputManagementService	Service Status :Running,
+
+ 
+28-03-2024 17:19:57
+ServiceName :Themes	Service Status :Running,
+
+ 
+28-03-2024 17:19:58
+ServiceName :TieringEngineService	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:58
+ServiceName :TimeBrokerSvc	Service Status :Running,
+
+ 
+28-03-2024 17:19:58
+ServiceName :TokenBroker	Service Status :Running,
+
+ 
+28-03-2024 17:19:58
+ServiceName :TrkWks	Service Status :Running,
+
+ 
+28-03-2024 17:19:59
+ServiceName :TroubleshootingSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:59
+ServiceName :TrustedInstaller	Service Status :Stopped,
+
+ 
+28-03-2024 17:19:59
+ServiceName :tzautoupdate	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:00
+ServiceName :UevAgentService	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:00
+ServiceName :uhssvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:00
+ServiceName :UmRdpService	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:00
+ServiceName :upnphost	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:01
+ServiceName :UserManager	Service Status :Running,
+
+ 
+28-03-2024 17:20:01
+ServiceName :UsoSvc	Service Status :Running,
+
+ 
+28-03-2024 17:20:01
+ServiceName :VacSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:01
+ServiceName :VaultSvc	Service Status :Running,
+
+ 
+28-03-2024 17:20:02
+ServiceName :vds	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:02
+ServiceName :vmcompute	Service Status :Running,
+
+ 
+28-03-2024 17:20:02
+ServiceName :vmicguestinterface	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:02
+ServiceName :vmicheartbeat	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:03
+ServiceName :vmickvpexchange	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:03
+ServiceName :vmicrdv	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:03
+ServiceName :vmicshutdown	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:03
+ServiceName :vmictimesync	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:04
+ServiceName :vmicvmsession	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:04
+ServiceName :vmicvss	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:04
+ServiceName :vmms	Service Status :Running,
+
+ 
+28-03-2024 17:20:05
+ServiceName :VSInstallerElevationService	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:05
+ServiceName :VSS	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:05
+ServiceName :VSStandardCollectorService150	Service Status :Running,
+
+ 
+28-03-2024 17:20:05
+ServiceName :W32Time	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:06
+ServiceName :WaaSMedicSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:06
+ServiceName :WalletService	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:06
+ServiceName :WarpJITSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:06
+ServiceName :WavesAudioService	Service Status :Running,
+
+ 
+28-03-2024 17:20:07
+ServiceName :WavesSysSvc	Service Status :Running,
+
+ 
+28-03-2024 17:20:07
+ServiceName :wbengine	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:07
+ServiceName :WbioSrvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:07
+ServiceName :Wcmsvc	Service Status :Running,
+
+ 
+28-03-2024 17:20:08
+ServiceName :wcncsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:08
+ServiceName :WdiServiceHost	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:08
+ServiceName :WdiSystemHost	Service Status :Running,
+
+ 
+28-03-2024 17:20:08
+ServiceName :WdNisSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:09
+ServiceName :WebClient	Service Status :Running,
+
+ 
+28-03-2024 17:20:09
+ServiceName :webthreatdefsvc	Service Status :Running,
+
+ 
+28-03-2024 17:20:09
+ServiceName :Wecsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:09
+ServiceName :WEPHOSTSVC	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:10
+ServiceName :wercplsupport	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:10
+ServiceName :WerSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:10
+ServiceName :WFDSConMgrSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:10
+ServiceName :WiaRpc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:11
+ServiceName :WinDefend	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:11
+ServiceName :WinHttpAutoProxySvc	Service Status :Running,
+
+ 
+28-03-2024 17:20:11
+ServiceName :Winmgmt	Service Status :Running,
+
+ 
+28-03-2024 17:20:11
+ServiceName :WinRM	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:12
+ServiceName :wisvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:12
+ServiceName :WlanSvc	Service Status :Running,
+
+ 
+28-03-2024 17:20:12
+ServiceName :wlidsvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:13
+ServiceName :wlpasvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:13
+ServiceName :WManSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:13
+ServiceName :wmiApSrv	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:13
+ServiceName :WMIRegistrationService	Service Status :Running,
+
+ 
+28-03-2024 17:20:14
+ServiceName :WMPNetworkSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:14
+ServiceName :workfolderssvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:14
+ServiceName :WpcMonSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:14
+ServiceName :WPDBusEnum	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:15
+ServiceName :WpnService	Service Status :Running,
+
+ 
+28-03-2024 17:20:15
+ServiceName :wscsvc	Service Status :Running,
+
+ 
+28-03-2024 17:20:15
+ServiceName :WSearch	Service Status :Running,
+
+ 
+28-03-2024 17:20:15
+ServiceName :wuauserv	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:16
+ServiceName :WwanSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:16
+ServiceName :XblAuthManager	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:16
+ServiceName :XblGameSave	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:16
+ServiceName :XboxGipSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:17
+ServiceName :XboxNetApiSvc	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:17
+ServiceName :AarSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:17
+ServiceName :BcastDVRUserService_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:18
+ServiceName :BluetoothUserService_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:18
+ServiceName :CaptureService_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:18
+ServiceName :cbdhsvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:20:18
+ServiceName :CDPUserSvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:20:18
+ServiceName :CloudBackupRestoreSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:19
+ServiceName :ConsentUxUserSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:19
+ServiceName :CredentialEnrollmentManagerUserSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:19
+ServiceName :DeviceAssociationBrokerSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:19
+ServiceName :DevicePickerUserSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:20
+ServiceName :DevicesFlowUserSvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:20:20
+ServiceName :MessagingService_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:20
+ServiceName :NPSMSvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:20:21
+ServiceName :OneSyncSvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:20:21
+ServiceName :P9RdrService_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:21
+ServiceName :PenService_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:21
+ServiceName :PimIndexMaintenanceSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:22
+ServiceName :PrintWorkflowUserSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:22
+ServiceName :UdkUserSvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:20:22
+ServiceName :UnistoreSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:22
+ServiceName :UserDataSvc_13b1e56c	Service Status :Stopped,
+
+ 
+28-03-2024 17:20:23
+ServiceName :webthreatdefusersvc_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:20:23
+ServiceName :WpnUserService_13b1e56c	Service Status :Running,
+
+ 
+28-03-2024 17:20:25
+ get Monitor Details  ****************************************
+
+ 
+28-03-2024 17:20:25
+Name :Generic PnP Monitor,
+
+ 
+28-03-2024 17:20:25   
+Availability :3,
+
+ 
+28-03-2024 17:20:25
+Caption :Generic PnP Monitor
+
+ 
+28-03-2024 17:20:25
+InstallDate :01-01-0001 00:00:00,
+
+ 
+28-03-2024 17:20:25
+ConfigManagerUserConfig :False,
+
+ 
+28-03-2024 17:20:25
+CreationClassName :Win32_DesktopMonitor,
+
+ 
+28-03-2024 17:20:25
+Description :Generic PnP Monitor,
+
+ 
+28-03-2024 17:20:25
+DeviceID :DesktopMonitor1,
+
+ 
+28-03-2024 17:20:25    
+ErrorCleared :,
+
+ 
+28-03-2024 17:20:25
+ErrorDescription :,
+
+ 
+28-03-2024 17:20:25
+ConfigManagerUserConfig :False,
+
+ 
+28-03-2024 17:20:25   
+LastErrorCode :,
+
+ 
+28-03-2024 17:20:25
+MonitorManufacturer :(Standard monitor types),
+
+ 
+28-03-2024 17:20:25
+PNPDeviceID :DISPLAY\CMN152E\4&24C9CDD0&0&UID8388688,
+
+ 
+28-03-2024 17:20:25
+MonitorType :Generic PnP Monitor,
+
+ 
+28-03-2024 17:20:25
+PixelsPerXLogicalInch :120,
+
+ 
+28-03-2024 17:20:25
+PixelsPerYLogicalInch :120,
+
+ 
+28-03-2024 17:20:25        
+Status :OK,
+
+ 
+28-03-2024 17:20:25
+SystemCreationClassName :Win32_ComputerSystem,
+
+ 
+28-03-2024 17:20:25
+SystemName :DESKTOP-FVH7TML,

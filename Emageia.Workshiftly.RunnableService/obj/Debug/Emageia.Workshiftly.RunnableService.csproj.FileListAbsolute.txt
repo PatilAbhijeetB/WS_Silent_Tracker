@@ -1,0 +1,15 @@
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\bin\Debug\Emageia.Workshiftly.RunnableService.exe.config
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\bin\Debug\Emageia.Workshiftly.RunnableService.exe
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\bin\Debug\Emageia.Workshiftly.RunnableService.pdb
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\bin\Debug\Emageia.Workshiftly.ProcessExtensionsService.dll
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\bin\Debug\Newtonsoft.Json.dll
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\bin\Debug\Emageia.Workshiftly.ProcessExtensionsService.pdb
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\bin\Debug\Newtonsoft.Json.xml
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\obj\Debug\Emageia.Workshiftly.RunnableService.csproj.AssemblyReference.cache
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\obj\Debug\Emageia.Workshiftly.RunnableService.csproj.SuggestedBindingRedirects.cache
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\obj\Debug\Emageia.Workshiftly.RunnableService.ProjectInstaller.resources
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\obj\Debug\Emageia.Workshiftly.RunnableService.csproj.GenerateResource.cache
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\obj\Debug\Emageia.Workshiftly.RunnableService.csproj.CoreCompileInputs.cache
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\obj\Debug\Emageia.Workshiftly.RunnableService.csproj.CopyComplete
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\obj\Debug\Emageia.Workshiftly.RunnableService.exe
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.RunnableService\obj\Debug\Emageia.Workshiftly.RunnableService.pdb

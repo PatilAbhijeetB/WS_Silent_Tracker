@@ -1,0 +1,1 @@
+﻿"C:\Windows\Microsoft.NET\Framework\v4.0.30319\installutil.exe" /u "C:\Users\Niroshan\Desktop\emageia\WorkshiftlyClientC#\silent-tracking\workshiftly-silent-tracking\Emageia.Workshiftly.RunnableService\bin\Release\Emageia.Workshiftly.RunnableService.exe"  pause

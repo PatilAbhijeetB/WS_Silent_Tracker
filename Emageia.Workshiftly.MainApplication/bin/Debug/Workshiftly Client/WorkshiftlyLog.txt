@@ -1,0 +1,194 @@
+27-03-2024 14:36:27	
+ 
+ ************************* Starting Now Application27-03-2024 14:36:27*********************** 
+ 
+
+27-03-2024 14:36:28	
+ 
+ ********** IP and Mac 27-03-2024 14:36:27
+ 
+ ************************* Mac Address = 00155DF5E2F5
+ ************************* Mac Address Old = B03CDCD624D2
+ ************************* System Mac ID = B0:3C:DC:D6:24:D2
+ ************************* Ip Address = 172.30.224.1
+ ************************* Environment.MachineName = DESKTOP-FVH7TML
+ ************************* Environment.Environment.UserName = Abhijeet Patil
+ 
+
+ 
+ ************************* Current OS Information:
+
+ ************************* Platform:  Win32NT
+ ************************* Os Name:  Microsoft Windows 11 Pro
+ ************************* Os Name 2:  Microsoft Windows 10 Enterprise 
+ ************************* Version String: = Microsoft Windows NT 6.2.9200.0
+
+ ************************* Ip Address = 
+ *************************      Major = 6
+ *************************      Minor = 2
+ ************************* Service Pack: = 
+ 
+
+                Date                Type                      Fuction                                                                Result         Error Description
+
+ 
+27-03-2024 14:36:28             Success   App.xaml InstallJavaClient                                       Java Client Exit Checking Start     *********************
+
+ 
+27-03-2024 14:36:36             Success   App.xaml InstallJavaClient                                   allready Java Client Exit --> 2.5.0     *********************
+28-03-2024 17:15:21	
+ 
+ ************************* Starting Now Application28-03-2024 17:15:21*********************** 
+ 
+
+28-03-2024 17:15:22	
+ 
+ ********** IP and Mac 28-03-2024 17:15:21
+ 
+ ************************* Mac Address = 00155DF5E2F5
+ ************************* Mac Address Old = B03CDCD624D2
+ ************************* System Mac ID = B0:3C:DC:D6:24:D2
+ ************************* Ip Address = 192.168.80.1
+ ************************* Environment.MachineName = DESKTOP-FVH7TML
+ ************************* Environment.Environment.UserName = Abhijeet Patil
+ 
+
+ 
+ ************************* Current OS Information:
+
+ ************************* Platform:  Win32NT
+ ************************* Os Name:  Microsoft Windows 11 Pro
+ ************************* Os Name 2:  Microsoft Windows 10 Enterprise 
+ ************************* Version String: = Microsoft Windows NT 6.2.9200.0
+
+ ************************* Ip Address = 
+ *************************      Major = 6
+ *************************      Minor = 2
+ ************************* Service Pack: = 
+ 
+
+                Date                Type                      Fuction                                                                Result         Error Description
+
+ 
+28-03-2024 17:15:22             Success   App.xaml InstallJavaClient                                       Java Client Exit Checking Start     *********************
+
+ 
+28-03-2024 17:15:35             Success   App.xaml InstallJavaClient                                   allready Java Client Exit --> 2.5.0     *********************
+
+ 
+28-03-2024 17:15:44             Success App.xaml UnInstallJavaClient                                                 Java Client uninstall                      ****
+
+ 
+28-03-2024 17:15:49             Success App.xaml UnInstallJavaClient                            Up to date Application or Server not exist                      ****
+
+ 
+28-03-2024 17:20:22             SuccessHttpRequestCaller.cs syncActivityWindows                                   Starting the Sync Activity Windows!******https://qa.workshiftly.com/api/users/
+
+ 
+28-03-2024 17:20:22             SuccessHttpRequestCaller.cs syncScreenshots                             ScreenShot timeslotDefinition.IsCompleted                    ******
+
+ 
+28-03-2024 17:20:22             SuccessHttpRequestCaller.cs syncScreenshots                   Start sync screenshot to HTTPPUT using update ETAG!                    ******
+
+ 
+28-03-2024 17:20:22             SuccessHttpRequestCaller.cs cleanCompletedJobs                     End sync screenshot to AWS complete Pending Jobs!                    ******
+
+ 
+28-03-2024 17:20:22             SuccessHttpRequestCaller.cs completePendingJobs                   Start sync screenshot to AWS complete Pending Jobs!                    ******
+
+ 
+28-03-2024 17:20:22             SuccessHttpRequestCaller.cs completePendingJobs                     End sync screenshot to AWS complete Pending Jobs!                    ******
+
+ 
+28-03-2024 17:20:22             SuccessHttpRequestCaller.cs syncScreenshots                   Start sync screenshot to HTTPPUT using update ETAG!                    ******
+
+ 
+28-03-2024 17:20:22             SuccessHttpRequestCaller.cs cleanCompletedJobs                     End sync screenshot to AWS complete Pending Jobs!                    ******
+
+ 
+28-03-2024 17:20:22             SuccessHttpRequestCaller.cs syncScreenshots                             ScreenShot timeslotDefinition.IsCompleted                    ******
+
+ 
+28-03-2024 17:20:23               ErrorHttpRequestCaller.cs CallPostSyncWorkStatusLogs                            *****response faild sync Work Status Logs! * ** Error ***False*****https://qa.workshiftly.com/api/users//work-status-log
+
+ 
+28-03-2024 17:20:23               ErrorHttpRequestCaller.cs syncActivityWindows                              There was a problem Active window sync !****** response status False*****https://qa.workshiftly.com/api/users//active-windows
+
+ 
+28-03-2024 17:20:23             SuccessHttpRequestCaller.cs syncActivityWindows                                     Ending the Sync Activity Windows!                    ******
+28-03-2024 17:37:31	
+ 
+ ************************* Starting Now Application28-03-2024 17:37:31*********************** 
+ 
+
+28-03-2024 17:37:31	
+ 
+ ********** IP and Mac 28-03-2024 17:37:31
+ 
+ ************************* Mac Address = 00155DF5E2F5
+ ************************* Mac Address Old = B03CDCD624D2
+ ************************* System Mac ID = B0:3C:DC:D6:24:D2
+ ************************* Ip Address = 172.30.80.1
+ ************************* Environment.MachineName = DESKTOP-FVH7TML
+ ************************* Environment.Environment.UserName = Abhijeet Patil
+ 
+
+ 
+ ************************* Current OS Information:
+
+ ************************* Platform:  Win32NT
+ ************************* Os Name:  Microsoft Windows 11 Pro
+ ************************* Os Name 2:  Microsoft Windows 10 Enterprise 
+ ************************* Version String: = Microsoft Windows NT 6.2.9200.0
+
+ ************************* Ip Address = 
+ *************************      Major = 6
+ *************************      Minor = 2
+ ************************* Service Pack: = 
+ 
+
+                Date                Type                      Fuction                                                                Result         Error Description
+
+ 
+28-03-2024 17:37:31             Success   App.xaml InstallJavaClient                                       Java Client Exit Checking Start     *********************
+
+ 
+28-03-2024 17:37:37             Success   App.xaml InstallJavaClient                                   allready Java Client Exit --> 2.5.0     *********************
+28-03-2024 17:43:18	
+ 
+ ************************* Starting Now Application28-03-2024 17:43:18*********************** 
+ 
+
+28-03-2024 17:43:18	
+ 
+ ********** IP and Mac 28-03-2024 17:43:18
+ 
+ ************************* Mac Address = 00155DF5E2F5
+ ************************* Mac Address Old = B03CDCD624D2
+ ************************* System Mac ID = B0:3C:DC:D6:24:D2
+ ************************* Ip Address = 172.25.64.1
+ ************************* Environment.MachineName = DESKTOP-FVH7TML
+ ************************* Environment.Environment.UserName = Abhijeet Patil
+ 
+
+ 
+ ************************* Current OS Information:
+
+ ************************* Platform:  Win32NT
+ ************************* Os Name:  Microsoft Windows 11 Pro
+ ************************* Os Name 2:  Microsoft Windows 10 Enterprise 
+ ************************* Version String: = Microsoft Windows NT 6.2.9200.0
+
+ ************************* Ip Address = 
+ *************************      Major = 6
+ *************************      Minor = 2
+ ************************* Service Pack: = 
+ 
+
+                Date                Type                      Fuction                                                                Result         Error Description
+
+ 
+28-03-2024 17:43:18             Success   App.xaml InstallJavaClient                                       Java Client Exit Checking Start     *********************
+
+ 
+28-03-2024 17:43:22             Success   App.xaml InstallJavaClient                                   allready Java Client Exit --> 2.5.0     *********************

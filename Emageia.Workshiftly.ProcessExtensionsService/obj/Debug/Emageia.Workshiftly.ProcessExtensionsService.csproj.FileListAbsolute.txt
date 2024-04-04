@@ -1,0 +1,6 @@
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.ProcessExtensionsService\bin\Debug\Emageia.Workshiftly.ProcessExtensionsService.dll
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.ProcessExtensionsService\bin\Debug\Emageia.Workshiftly.ProcessExtensionsService.pdb
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.ProcessExtensionsService\obj\Debug\Emageia.Workshiftly.ProcessExtensionsService.csproj.AssemblyReference.cache
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.ProcessExtensionsService\obj\Debug\Emageia.Workshiftly.ProcessExtensionsService.csproj.CoreCompileInputs.cache
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.ProcessExtensionsService\obj\Debug\Emageia.Workshiftly.ProcessExtensionsService.dll
+D:\ws\workshiftly_silent_tracking-WS-2325\Emageia.Workshiftly.ProcessExtensionsService\obj\Debug\Emageia.Workshiftly.ProcessExtensionsService.pdb
